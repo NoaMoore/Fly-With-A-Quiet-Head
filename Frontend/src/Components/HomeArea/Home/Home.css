@@ -1,0 +1,73 @@
+html, body {
+    margin: 0;
+    height: 75vh
+}
+
+.Home{
+    overflow: hidden;
+    font-size: large;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 5%;
+    display: flex;
+    height: 75vh;
+    background-image: url('../../../Assets/Images/fantastic-blue-sky.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+ 
+
+}
+
+
+.Home {
+    overflow: hidden;
+    font-size: large;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 5%;
+    display: flex;
+    height: 75vh;
+    position: relative;
+    background-image: url('../../../Assets/Images/fantastic-blue-sky.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+}
+
+.content {
+    border-radius: 10px;
+    text-align: justify;
+
+    
+}
+
+.text{
+    position: relative;
+    z-index: 2;
+    color: #333;
+    font-weight: bold; 
+    font-size: 15em;
+
+}
+
+.highlighted-title{
+    font-size: 2em; 
+    font-weight: bold; 
+    display: block;
+    margin-top: 20px; 
+    text-align: center; 
+    font-family:cursive;
+    margin-bottom: 20px;
+}
+
+.highlighted-text {
+    font-size: 2em; 
+    font-weight: bold;
+    display: block;
+    margin-top: 20px; 
+    text-align: center; 
+    font-family:cursive;
+}

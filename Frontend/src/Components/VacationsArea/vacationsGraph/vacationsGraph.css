@@ -1,0 +1,46 @@
+
+.VacationsGraph {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: -600px;
+    max-height: 75vh;
+    background-color: transparent;
+}
+
+.VacationsGraph h2 {
+    margin-top: 10px;
+    font: italic small-caps bold 16px/2 cursive;
+    font-size: 25px;
+}
+
+.CsvLink {
+    margin-bottom: 50px;
+}
+
+.CsvLink button {
+    background-color: rgb(103, 31, 43);
+    color: white;
+    font-size: 16px;
+    border: none;
+    border-radius: 6px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.CsvLink button:hover {
+    background-color: green;
+}
+
+/* Style the chart container */
+.chart-container {
+    border-radius: 15px;
+    background-color: white;
+    padding: -20px;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center the details vertically */
+    justify-content: center; /* Align the chart to the left horizontally */
+}

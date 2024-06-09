@@ -1,0 +1,12 @@
+.Header {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(237, 247, 247);
+}
+
+.font{
+    font-family: cursive;
+    color: blue;
+}

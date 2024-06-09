@@ -1,0 +1,117 @@
+
+/* .vacation-list { */
+   /* display: flex;
+   justify-content: center;
+   align-items: center;
+   max-width: 1200px; /* Adjust as needed */
+   /* width: 100%;
+   padding: 0 20px; /* Add padding if necessary */
+   /* margin: 0 auto; */ 
+ /* } */
+
+ /* .cards-container{
+  margin-left: 80px;
+  overflow-y: auto;
+ } */
+
+ html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  /* overflow: hidden; */
+};
+
+.vacations-list {
+  display: flex;
+  flex-direction: column;
+  height: 75vh; /* Full viewport height */
+  overflow-y: auto; /* Enable scrolling on the vacation list */
+}
+
+
+
+/* .cards-container {
+  margin-left: 80px;
+  overflow-y: auto;
+  height: 100vh; /* Adjust as needed to fit the screen */
+  /* /* padding: 20px;
+  box-sizing: border-box; */
+/* } */
+
+ /* .pagination{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-bottom: 0;
+ }
+  */
+/*  
+ .pagination button {
+   margin: 0 5px; /* Adjust spacing between buttons */
+ /* } */
+
+ .pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px; /* Adjust margin as needed */
+  background-color: transparent; /* Ensure the background is transparent */
+  border: none; /* Ensure there's no border */
+  box-shadow: none; /* Remove any shadow if present */
+  padding: 0; /* Ensure there's no padding */
+}
+
+.pagination-button {
+  margin: 0 5px; /* Adjust spacing between buttons */
+  background-color: #88d3ec; /* Adjust as needed */
+  border: none; /* Ensure there's no border */
+  box-shadow: none; /* Remove any shadow if present */
+  padding: 8px 50px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+ 
+ 
+ .page-number {
+   font-weight: bold;
+   margin: 0 5px; /* Adjust spacing around the page number */
+ }
+ 
+ 
+ 
+ 
+ /* Add these styles to your CSS file */
+ .button {
+   /* Add your default button styles here */
+   padding: 8px 16px;
+   background-color: #88d3ec;
+   border: none;
+   border-radius: 4px;
+   cursor: pointer;
+   margin: 5px;
+ }
+ 
+ /* Define styles for the active state */
+ .button.active {
+   background-color: aqua; /* Change to your desired active color */
+   color: #fff; /* Change to your desired text color for the active state */
+ }
+
+ .vacations-container {
+  flex: 1;
+  display: grid;
+  /* grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); */
+  grid-template-columns: repeat(4, 1fr);
+  gap: 16px;
+  padding-left: 80px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  overflow-y: auto; /* Enable vertical scrolling */
+  overflow-x: hidden;
+  max-height: 60vh;
+}
+ 
+ .button-container{
+  border-bottom: 10px solid white;
+ }

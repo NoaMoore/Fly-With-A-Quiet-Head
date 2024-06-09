@@ -1,0 +1,30 @@
+.layout {
+    padding-bottom: 0px;
+    overflow: hidden;
+
+}
+
+
+.header{
+    overflow: hidden;
+    height: 15vh;
+
+}
+
+.nav{
+    overflow: hidden;
+    height:5vh;
+}
+
+.routing{
+    height:75vh;
+}
+
+
+.footer{
+    overflow: hidden;
+    height:5vh;
+    background-color:rgb(215, 245, 245);
+    margin-top: 12px;
+    padding-bottom: 20px;
+}

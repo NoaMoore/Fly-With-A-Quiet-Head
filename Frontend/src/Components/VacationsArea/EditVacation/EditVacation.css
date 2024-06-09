@@ -1,0 +1,60 @@
+.EditVacation .thumbnail {
+	width: 40px;
+    height: 40px;
+    position: absolute;
+    transform: translate(250px, 405px);
+    border: 1px solid;
+}
+
+
+/* AddVacation.css */
+
+/* מניעת גלילה על גוף הדף */
+body {
+    overflow: hidden;
+    /* height: 75vh; */
+  }
+  
+  .EditVacation {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 75vh; /* התאמת גובה למלוא גובה הדף */
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    width: 300px; /* ניתן לשנות לפי הצורך */
+    padding: 20px;
+    background-color: #f9f9f9;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+  }
+  
+  label {
+    margin-top: 10px;
+  }
+  
+  input,
+  button {
+    margin-top: 5px;
+    padding: 8px;
+    font-size: 1em;
+  }
+  
+  button {
+    margin-top: 20px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    padding: 10px;
+    font-size: 1em;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  

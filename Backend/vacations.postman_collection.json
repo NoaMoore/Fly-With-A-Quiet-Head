@@ -1,0 +1,401 @@
+{
+	"info": {
+		"_postman_id": "cd8dbb95-bcaf-488e-853d-01dc106bbc72",
+		"name": "vacations",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "32067256"
+	},
+	"item": [
+		{
+			"name": "vacations",
+			"item": [
+				{
+					"name": "Get all vacations",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": []
+						},
+						"url": {
+							"raw": "localhost:4000/api/vacations/11",
+							"host": [
+								"localhost"
+							],
+							"port": "4000",
+							"path": [
+								"api",
+								"vacations",
+								"11"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get one vacation",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "vacationDestination",
+									"value": "abc",
+									"type": "text"
+								},
+								{
+									"key": "description",
+									"value": "dsffs",
+									"type": "text"
+								},
+								{
+									"key": "startDate",
+									"value": "2024-05-10",
+									"type": "text"
+								},
+								{
+									"key": "endDate",
+									"value": "2024-05-15",
+									"type": "text"
+								},
+								{
+									"key": "price",
+									"value": "512",
+									"type": "text"
+								},
+								{
+									"key": "imageName",
+									"type": "file",
+									"src": "/C:/Users/Owner/OneDrive/שולחן העבודה/_big_16F11561EC9D58F85FC15F8BF7A37FFC.jpg"
+								}
+							]
+						},
+						"url": {
+							"raw": "localhost:4000/api/vacation-by-id/23",
+							"host": [
+								"localhost"
+							],
+							"port": "4000",
+							"path": [
+								"api",
+								"vacation-by-id",
+								"23"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Add vacation",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "destination",
+									"value": "",
+									"type": "text"
+								},
+								{
+									"key": "description",
+									"value": "The NOVOTEL WARSZAWA CENTRUM hotel is a centrally located four-star hotel suitable for business trips due to its large and spacious business center along with the abundance of meeting rooms available at the hotel. Additionally, the hotel is family-friendly, suitable for couples, and pet-friendly, making it the perfect choice for anyone looking for the perfect hotel in the ultimate location. The hotel offers a well-equipped fitness room, massage options, a children's playroom, a lounge, conference facilities, concierge services, snack bars, and beverages that provide guests with comfort, stunning city views from the hotel, and a variety of additional attractions aimed at making the guests' stay as comfortable as possible. The hotel is centrally located close to a variety of great tourist attractions such as museums, galleries, historic buildings, landmarks, shopping centers, restaurants, aesthetic cafes, and more, allowing hotel guests to easily navigate between the hotel and the city.",
+									"type": "text"
+								},
+								{
+									"key": "startDate",
+									"value": "2024-10-12",
+									"type": "text"
+								},
+								{
+									"key": "endDate",
+									"value": "2024-10-15",
+									"type": "text"
+								},
+								{
+									"key": "price",
+									"value": "850",
+									"type": "text"
+								},
+								{
+									"key": "image",
+									"type": "file",
+									"src": "/C:/4578-97/projects/final-project/images/dubai.jpg"
+								}
+							]
+						},
+						"url": {
+							"raw": "localhost:4000/api/vacations",
+							"host": [
+								"localhost"
+							],
+							"port": "4000",
+							"path": [
+								"api",
+								"vacations"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Update vacation",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "destination",
+									"value": "Athens",
+									"type": "text"
+								},
+								{
+									"key": "description",
+									"value": "Athens (Greek: Αθήνα, Αθεινα; listen (info • help)) is the capital city of Greece, the capital of the Prefecture of Athens (Νομαρχίας Αθηνών) and the district of Attica (Περιφέρειας Αττικές), as well as the largest city in the country. ",
+									"type": "text"
+								},
+								{
+									"key": "startDate",
+									"value": "2024-03-13",
+									"type": "text"
+								},
+								{
+									"key": "endDate",
+									"value": "2024-03-17",
+									"type": "text"
+								},
+								{
+									"key": "price",
+									"value": "950",
+									"type": "text"
+								},
+								{
+									"key": "imageName",
+									"type": "file",
+									"src": "/C:/4578-97/projects/final-project/images2/athens.jpg"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://localhost:4000/api/vacations/11",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "4000",
+							"path": [
+								"api",
+								"vacations",
+								"11"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Delete vacation",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "localhost:4000/api/vacations/11",
+							"host": [
+								"localhost"
+							],
+							"port": "4000",
+							"path": [
+								"api",
+								"vacations",
+								"11"
+							]
+						}
+					},
+					"response": []
+				}
+			],
+			"event": [
+				{
+					"listen": "prerequest",
+					"script": {
+						"type": "text/javascript",
+						"packages": {},
+						"exec": [
+							""
+						]
+					}
+				},
+				{
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"packages": {},
+						"exec": [
+							""
+						]
+					}
+				}
+			]
+		},
+		{
+			"name": "Auth",
+			"item": [
+				{
+					"name": "Register",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"firstName\":\"Moshe1\",\r\n    \"lastName\":\"Ros\",\r\n    \"email\":\"noapixel1234@gmail.com\",\r\n    \"password\":\"1234\",\r\n    \"roleId\":1\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "localhost:4000/api/register",
+							"host": [
+								"localhost"
+							],
+							"port": "4000",
+							"path": [
+								"api",
+								"register"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Login",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"email\":\"noapixel9@gmail.com\",\r\n    \"password\":\"1234\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "localhost:4000/api/login",
+							"host": [
+								"localhost"
+							],
+							"port": "4000",
+							"path": [
+								"api",
+								"login"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Likes",
+			"item": [
+				{
+					"name": "Add like",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "    {\r\n        \"userId\": 6,\r\n        \"vacationId\": 3\r\n    }",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:4000/api/like",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "4000",
+							"path": [
+								"api",
+								"like"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Delete like",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:4000/api/like/15/11",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "4000",
+							"path": [
+								"api",
+								"like",
+								"15",
+								"11"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	],
+	"auth": {
+		"type": "bearer",
+		"bearer": [
+			{
+				"key": "token",
+				"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjo5LCJmaXJzdE5hbWUiOiJhZG1pbiIsImxhc3ROYW1lIjoiYWRtaW4iLCJlbWFpbCI6Im5vYXBpeGVsOUBnbWFpbC5jb20iLCJyb2xlSWQiOjF9LCJpYXQiOjE3MTM2NjcyMDEsImV4cCI6MTcxMzY4NTIwMX0.he9wofTu9GAnuXECGnqO0wrLOPXmiLQTn5c3Voiq_yQ",
+				"type": "string"
+			}
+		]
+	},
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"packages": {},
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"packages": {},
+				"exec": [
+					""
+				]
+			}
+		}
+	]
+}

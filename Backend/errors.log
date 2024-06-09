@@ -1,0 +1,3048 @@
+Sun Feb 18 2024 20:59:55 GMT+0200 (שעון ישראל (חורף))
+Incorrect email or password
+-----------------------------------------------------
+Sun Feb 18 2024 21:00:53 GMT+0200 (שעון ישראל (חורף))
+id 13434 not found.
+-----------------------------------------------------
+Sun Feb 18 2024 21:20:23 GMT+0200 (שעון ישראל (חורף))
+Route /favicon.ico not found.
+-----------------------------------------------------
+Wed Feb 28 2024 15:18:30 GMT+0200 (שעון ישראל (חורף))
+You are not logged-in.
+-----------------------------------------------------
+Wed Feb 28 2024 15:19:39 GMT+0200 (שעון ישראל (חורף))
+You are not logged-in.
+-----------------------------------------------------
+Wed Feb 28 2024 15:20:30 GMT+0200 (שעון ישראל (חורף))
+You are not logged-in.
+-----------------------------------------------------
+Wed Feb 28 2024 15:21:01 GMT+0200 (שעון ישראל (חורף))
+You are not logged-in.
+-----------------------------------------------------
+Wed Feb 28 2024 15:21:24 GMT+0200 (שעון ישראל (חורף))
+Route /api/categories/1 not found.
+-----------------------------------------------------
+Wed Feb 28 2024 15:22:23 GMT+0200 (שעון ישראל (חורף))
+Route /api/categories/1 not found.
+-----------------------------------------------------
+Wed Feb 28 2024 15:22:56 GMT+0200 (שעון ישראל (חורף))
+Route /api/categories not found.
+-----------------------------------------------------
+Wed Feb 28 2024 15:24:51 GMT+0200 (שעון ישראל (חורף))
+Route /api/categories not found.
+-----------------------------------------------------
+Wed Feb 28 2024 15:25:37 GMT+0200 (שעון ישראל (חורף))
+Route /api/categories not found.
+-----------------------------------------------------
+Wed Feb 28 2024 15:27:12 GMT+0200 (שעון ישראל (חורף))
+Route /api/categories not found.
+-----------------------------------------------------
+Mon Mar 18 2024 13:45:27 GMT+0200 (שעון ישראל (חורף))
+Access denied for user 'root'@'localhost' (using password: NO)
+-----------------------------------------------------
+Mon Mar 18 2024 13:45:42 GMT+0200 (שעון ישראל (חורף))
+Access denied for user 'root'@'localhost' (using password: NO)
+-----------------------------------------------------
+Mon Mar 18 2024 13:46:24 GMT+0200 (שעון ישראל (חורף))
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Boysenberry Spread',
+            price = 25.0000,
+            stock = 120,
+   ' at line 2
+-----------------------------------------------------
+Mon Mar 18 2024 13:46:35 GMT+0200 (שעון ישראל (חורף))
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Boysenberry Spread',
+            price = 25.0000,
+            stock = 121,
+   ' at line 2
+-----------------------------------------------------
+Mon Mar 18 2024 13:46:47 GMT+0200 (שעון ישראל (חורף))
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Boysenberry Spread',
+            price = 25.0000,
+            stock = 120,
+   ' at line 2
+-----------------------------------------------------
+Mon Mar 18 2024 13:46:52 GMT+0200 (שעון ישראל (חורף))
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Boysenberry Spread',
+            price = 25.0000,
+            stock = 120,
+   ' at line 2
+-----------------------------------------------------
+Mon Mar 18 2024 13:46:58 GMT+0200 (שעון ישראל (חורף))
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Boysenberry Spread',
+            price = 25.0000,
+            stock = 120,
+   ' at line 2
+-----------------------------------------------------
+Mon Mar 18 2024 13:47:17 GMT+0200 (שעון ישראל (חורף))
+Cannot delete or update a parent row: a foreign key constraint fails (`northwind`.`order-details`, CONSTRAINT `FK_Order_Details_Products` FOREIGN KEY (`productId`) REFERENCES `products` (`id`))
+-----------------------------------------------------
+Sun Mar 31 2024 12:56:45 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Sun Mar 31 2024 12:56:57 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Sun Mar 31 2024 13:02:53 GMT+0300 (שעון ישראל (קיץ))
+Unexpected non-whitespace character after JSON at position 721 (line 11 column 1)
+-----------------------------------------------------
+Sun Mar 31 2024 13:07:02 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in.
+-----------------------------------------------------
+Sun Mar 31 2024 13:11:09 GMT+0300 (שעון ישראל (קיץ))
+Data too long for column 'password' at row 1
+-----------------------------------------------------
+Mon Apr 01 2024 10:26:26 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in.
+-----------------------------------------------------
+Mon Apr 01 2024 10:27:06 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in.
+-----------------------------------------------------
+Mon Apr 01 2024 10:27:15 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in.
+-----------------------------------------------------
+Mon Apr 01 2024 10:30:35 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in.
+-----------------------------------------------------
+Mon Apr 01 2024 10:41:53 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in.
+-----------------------------------------------------
+Mon Apr 01 2024 10:44:13 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in.
+-----------------------------------------------------
+Mon Apr 01 2024 10:46:19 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in.
+-----------------------------------------------------
+Mon Apr 01 2024 10:47:29 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in.
+-----------------------------------------------------
+Mon Apr 01 2024 10:47:35 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in.
+-----------------------------------------------------
+Mon Apr 01 2024 10:50:21 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in.
+-----------------------------------------------------
+Mon Apr 01 2024 10:52:25 GMT+0300 (שעון ישראל (קיץ))
+"endDate" failed custom validation because Cannot read properties of undefined (reading 'presence')
+-----------------------------------------------------
+Mon Apr 01 2024 10:53:33 GMT+0300 (שעון ישראל (קיץ))
+"endDate" failed custom validation because Cannot read properties of undefined (reading 'presence')
+-----------------------------------------------------
+Mon Apr 01 2024 11:31:24 GMT+0300 (שעון ישראל (קיץ))
+"image" is required
+-----------------------------------------------------
+Mon Apr 01 2024 11:31:44 GMT+0300 (שעון ישראל (קיץ))
+Route /favicon.ico not found.
+-----------------------------------------------------
+Mon Apr 01 2024 11:42:56 GMT+0300 (שעון ישראל (קיץ))
+"vacationDestination" is required
+-----------------------------------------------------
+Mon Apr 01 2024 11:43:24 GMT+0300 (שעון ישראל (קיץ))
+"vacationDestination" is required
+-----------------------------------------------------
+Mon Apr 01 2024 12:42:43 GMT+0300 (שעון ישראל (קיץ))
+"vacationDestination" is required
+-----------------------------------------------------
+Mon Apr 01 2024 12:42:58 GMT+0300 (שעון ישראל (קיץ))
+"vacationDestination" is required
+-----------------------------------------------------
+Mon Apr 01 2024 12:50:42 GMT+0300 (שעון ישראל (קיץ))
+Route /api/vacations/images/c03654b9-df6f-46b4-a1d1-8dd1d9b906cc.jpg not found.
+-----------------------------------------------------
+Mon Apr 01 2024 12:51:53 GMT+0300 (שעון ישראל (קיץ))
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE id = ?' at line 2
+-----------------------------------------------------
+Mon Apr 01 2024 12:54:07 GMT+0300 (שעון ישראל (קיץ))
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE id = 4' at line 2
+-----------------------------------------------------
+Mon Apr 01 2024 12:56:46 GMT+0300 (שעון ישראל (קיץ))
+Table 'vacation-site.products' doesn't exist
+-----------------------------------------------------
+Mon Apr 01 2024 12:57:13 GMT+0300 (שעון ישראל (קיץ))
+Cannot read properties of undefined (reading 'updateVacation')
+-----------------------------------------------------
+Mon Apr 01 2024 13:01:04 GMT+0300 (שעון ישראל (קיץ))
+Cannot read properties of undefined (reading 'updateVacation')
+-----------------------------------------------------
+Mon Apr 01 2024 13:11:15 GMT+0300 (שעון ישראל (קיץ))
+Cannot read properties of undefined (reading 'updateVacation')
+-----------------------------------------------------
+Mon Apr 01 2024 13:15:06 GMT+0300 (שעון ישראל (קיץ))
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 2
+-----------------------------------------------------
+Mon Apr 01 2024 13:15:47 GMT+0300 (שעון ישראל (קיץ))
+Cannot read properties of undefined (reading 'updateVacation')
+-----------------------------------------------------
+Mon Apr 01 2024 13:44:57 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'vacationId' in 'where clause'
+-----------------------------------------------------
+Tue Apr 02 2024 09:08:21 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in.
+-----------------------------------------------------
+Tue Apr 02 2024 09:10:10 GMT+0300 (שעון ישראל (קיץ))
+Cannot read properties of undefined (reading 'imageName')
+-----------------------------------------------------
+Tue Apr 02 2024 09:10:20 GMT+0300 (שעון ישראל (קיץ))
+Cannot read properties of undefined (reading 'imageName')
+-----------------------------------------------------
+Tue Apr 02 2024 09:32:58 GMT+0300 (שעון ישראל (קיץ))
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?, startDate = ?, endDate = ?, price = ?, imageName = ? WHERE id = ?' at line 2
+-----------------------------------------------------
+Tue Apr 02 2024 10:05:09 GMT+0300 (שעון ישראל (קיץ))
+Route //api/like not found.
+-----------------------------------------------------
+Tue Apr 02 2024 10:05:17 GMT+0300 (שעון ישראל (קיץ))
+Route /api/like not found.
+-----------------------------------------------------
+Tue Apr 02 2024 10:05:24 GMT+0300 (שעון ישראל (קיץ))
+Route /api/likes not found.
+-----------------------------------------------------
+Tue Apr 02 2024 10:05:26 GMT+0300 (שעון ישראל (קיץ))
+Route /api/likes not found.
+-----------------------------------------------------
+Tue Apr 02 2024 10:05:44 GMT+0300 (שעון ישראל (קיץ))
+Route /api/likes not found.
+-----------------------------------------------------
+Tue Apr 02 2024 10:07:34 GMT+0300 (שעון ישראל (קיץ))
+Route /api/likes not found.
+-----------------------------------------------------
+Tue Apr 02 2024 10:08:09 GMT+0300 (שעון ישראל (קיץ))
+Route /api/likes not found.
+-----------------------------------------------------
+Tue Apr 02 2024 10:09:50 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 02 2024 10:11:38 GMT+0300 (שעון ישראל (קיץ))
+Route /api/likes not found.
+-----------------------------------------------------
+Tue Apr 02 2024 10:12:37 GMT+0300 (שעון ישראל (קיץ))
+Route //api/vacations/like/:3/:5 not found.
+-----------------------------------------------------
+Tue Apr 02 2024 10:12:47 GMT+0300 (שעון ישראל (קיץ))
+Route /api/vacations/like/:3/:5 not found.
+-----------------------------------------------------
+Tue Apr 02 2024 10:12:54 GMT+0300 (שעון ישראל (קיץ))
+Route /api/vacations/like/3/5 not found.
+-----------------------------------------------------
+Tue Apr 02 2024 10:14:58 GMT+0300 (שעון ישראל (קיץ))
+Route /api/vacations/like/3/5 not found.
+-----------------------------------------------------
+Tue Apr 02 2024 10:16:11 GMT+0300 (שעון ישראל (קיץ))
+Route /api/likes/3/5 not found.
+-----------------------------------------------------
+Tue Apr 02 2024 10:16:25 GMT+0300 (שעון ישראל (קיץ))
+Route /api/likes/3/5 not found.
+-----------------------------------------------------
+Tue Apr 02 2024 10:17:02 GMT+0300 (שעון ישראל (קיץ))
+Route /api/likes/3/5 not found.
+-----------------------------------------------------
+Tue Apr 02 2024 10:19:01 GMT+0300 (שעון ישראל (קיץ))
+Route /api/likes/3/5 not found.
+-----------------------------------------------------
+Tue Apr 02 2024 10:19:39 GMT+0300 (שעון ישראל (קיץ))
+Route /api/likes not found.
+-----------------------------------------------------
+Tue Apr 02 2024 10:20:18 GMT+0300 (שעון ישראל (קיץ))
+Route /api/likes not found.
+-----------------------------------------------------
+Tue Apr 02 2024 10:40:08 GMT+0300 (שעון ישראל (קיץ))
+Route /api/likes not found.
+-----------------------------------------------------
+Tue Apr 02 2024 10:42:35 GMT+0300 (שעון ישראל (קיץ))
+Route /api/likes/3/5 not found.
+-----------------------------------------------------
+Tue Apr 02 2024 10:49:43 GMT+0300 (שעון ישראל (קיץ))
+Route /api/likes/3/5 not found.
+-----------------------------------------------------
+Tue Apr 02 2024 10:49:51 GMT+0300 (שעון ישראל (קיץ))
+Route /api/likes/3/5 not found.
+-----------------------------------------------------
+Tue Apr 02 2024 11:01:53 GMT+0300 (שעון ישראל (קיץ))
+Cannot read properties of undefined (reading 'imageName')
+-----------------------------------------------------
+Tue Apr 02 2024 11:05:12 GMT+0300 (שעון ישראל (קיץ))
+Cannot read properties of undefined (reading 'imageName')
+-----------------------------------------------------
+Tue Apr 02 2024 11:08:21 GMT+0300 (שעון ישראל (קיץ))
+Cannot read properties of undefined (reading 'imageName')
+-----------------------------------------------------
+Tue Apr 02 2024 11:09:47 GMT+0300 (שעון ישראל (קיץ))
+Cannot read properties of undefined (reading 'imageName')
+-----------------------------------------------------
+Tue Apr 02 2024 11:12:06 GMT+0300 (שעון ישראל (קיץ))
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?, ?, ?, ?, ?)' at line 1
+-----------------------------------------------------
+Tue Apr 02 2024 11:19:05 GMT+0300 (שעון ישראל (קיץ))
+Route /api/like/3/5 not found.
+-----------------------------------------------------
+Tue Apr 02 2024 11:32:56 GMT+0300 (שעון ישראל (קיץ))
+Route /api/users not found.
+-----------------------------------------------------
+Tue Apr 02 2024 11:33:21 GMT+0300 (שעון ישראל (קיץ))
+Route /api/users not found.
+-----------------------------------------------------
+Tue Apr 02 2024 11:33:23 GMT+0300 (שעון ישראל (קיץ))
+Route /api/users not found.
+-----------------------------------------------------
+Tue Apr 02 2024 11:33:49 GMT+0300 (שעון ישראל (קיץ))
+Route /api/users not found.
+-----------------------------------------------------
+Tue Apr 02 2024 11:35:40 GMT+0300 (שעון ישראל (קיץ))
+Route /api/users not found.
+-----------------------------------------------------
+Tue Apr 02 2024 11:37:08 GMT+0300 (שעון ישראל (קיץ))
+Route /api/users not found.
+-----------------------------------------------------
+Tue Apr 02 2024 11:41:00 GMT+0300 (שעון ישראל (קיץ))
+Route /api/users not found.
+-----------------------------------------------------
+Tue Apr 02 2024 11:41:41 GMT+0300 (שעון ישראל (קיץ))
+Email already taken.
+-----------------------------------------------------
+Tue Apr 02 2024 11:45:51 GMT+0300 (שעון ישראל (קיץ))
+Route /api/users not found.
+-----------------------------------------------------
+Tue Apr 02 2024 11:46:13 GMT+0300 (שעון ישראל (קיץ))
+Route /api/users/2 not found.
+-----------------------------------------------------
+Tue Apr 02 2024 11:46:58 GMT+0300 (שעון ישראל (קיץ))
+Route /api/users not found.
+-----------------------------------------------------
+Tue Apr 02 2024 11:51:34 GMT+0300 (שעון ישראל (קיץ))
+Route /api/users not found.
+-----------------------------------------------------
+Tue Apr 02 2024 11:54:49 GMT+0300 (שעון ישראל (קיץ))
+Route /api/users not found.
+-----------------------------------------------------
+Tue Apr 02 2024 11:55:53 GMT+0300 (שעון ישראל (קיץ))
+Route /api/users not found.
+-----------------------------------------------------
+Tue Apr 02 2024 11:56:22 GMT+0300 (שעון ישראל (קיץ))
+Route /api/likes/3/5 not found.
+-----------------------------------------------------
+Tue Apr 02 2024 11:56:30 GMT+0300 (שעון ישראל (קיץ))
+Route /api/likes/3/5 not found.
+-----------------------------------------------------
+Tue Apr 02 2024 11:56:49 GMT+0300 (שעון ישראל (קיץ))
+Route /api/likes/3/2 not found.
+-----------------------------------------------------
+Tue Apr 02 2024 12:01:31 GMT+0300 (שעון ישראל (קיץ))
+Route /api/likes/3/2 not found.
+-----------------------------------------------------
+Tue Apr 02 2024 12:03:08 GMT+0300 (שעון ישראל (קיץ))
+Route /api/like/3/2 not found.
+-----------------------------------------------------
+Tue Apr 02 2024 12:11:49 GMT+0300 (שעון ישראל (קיץ))
+Route /api/like/3/2 not found.
+-----------------------------------------------------
+Tue Apr 02 2024 12:27:41 GMT+0300 (שעון ישראל (קיץ))
+Duplicate entry '3-2' for key 'likes.PRIMARY'
+-----------------------------------------------------
+Tue Apr 02 2024 12:39:10 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 02 2024 12:40:14 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 02 2024 12:43:09 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 02 2024 12:47:10 GMT+0300 (שעון ישראל (קיץ))
+id 3 not found.
+-----------------------------------------------------
+Tue Apr 02 2024 13:09:47 GMT+0300 (שעון ישראל (קיץ))
+"image" is required
+-----------------------------------------------------
+Tue Apr 02 2024 14:54:15 GMT+0300 (שעון ישראל (קיץ))
+Cannot delete or update a parent row: a foreign key constraint fails (`vacation-site`.`likes`, CONSTRAINT `VacationsRelatoin` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`id`) ON DELETE RESTRICT ON UPDATE RESTRICT)
+-----------------------------------------------------
+Tue Apr 02 2024 14:57:11 GMT+0300 (שעון ישראל (קיץ))
+Cannot delete or update a parent row: a foreign key constraint fails (`vacation-site`.`likes`, CONSTRAINT `VacationsRelatoin` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`id`) ON DELETE RESTRICT ON UPDATE RESTRICT)
+-----------------------------------------------------
+Tue Apr 02 2024 14:57:13 GMT+0300 (שעון ישראל (קיץ))
+Cannot delete or update a parent row: a foreign key constraint fails (`vacation-site`.`likes`, CONSTRAINT `VacationsRelatoin` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`id`) ON DELETE RESTRICT ON UPDATE RESTRICT)
+-----------------------------------------------------
+Tue Apr 02 2024 14:59:50 GMT+0300 (שעון ישראל (קיץ))
+Cannot read properties of undefined (reading 'imageName')
+-----------------------------------------------------
+Tue Apr 02 2024 14:59:55 GMT+0300 (שעון ישראל (קיץ))
+Cannot read properties of undefined (reading 'imageName')
+-----------------------------------------------------
+Tue Apr 02 2024 15:01:25 GMT+0300 (שעון ישראל (קיץ))
+Cannot read properties of undefined (reading 'imageName')
+-----------------------------------------------------
+Tue Apr 02 2024 15:22:50 GMT+0300 (שעון ישראל (קיץ))
+"price" must be a number
+-----------------------------------------------------
+Wed Apr 03 2024 10:19:30 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in.
+-----------------------------------------------------
+Wed Apr 03 2024 10:20:11 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in.
+-----------------------------------------------------
+Wed Apr 03 2024 10:20:33 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in.
+-----------------------------------------------------
+Wed Apr 03 2024 10:21:34 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in.
+-----------------------------------------------------
+Wed Apr 03 2024 10:21:51 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in.
+-----------------------------------------------------
+Wed Apr 03 2024 10:25:23 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in.
+-----------------------------------------------------
+Wed Apr 03 2024 10:25:32 GMT+0300 (שעון ישראל (קיץ))
+Email already taken.
+-----------------------------------------------------
+Wed Apr 03 2024 10:27:08 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in.
+-----------------------------------------------------
+Wed Apr 03 2024 10:27:10 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in.
+-----------------------------------------------------
+Wed Apr 03 2024 10:28:18 GMT+0300 (שעון ישראל (קיץ))
+id 52 not found.
+-----------------------------------------------------
+Wed Apr 03 2024 10:28:32 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in.
+-----------------------------------------------------
+Wed Apr 03 2024 10:29:30 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in.
+-----------------------------------------------------
+Wed Apr 03 2024 10:34:17 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in.
+-----------------------------------------------------
+Wed Apr 03 2024 10:51:38 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in.
+-----------------------------------------------------
+Wed Apr 03 2024 10:53:41 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in.
+-----------------------------------------------------
+Wed Apr 03 2024 11:04:38 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in.
+-----------------------------------------------------
+Wed Apr 03 2024 11:15:09 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in.
+-----------------------------------------------------
+Wed Apr 03 2024 11:18:47 GMT+0300 (שעון ישראל (קיץ))
+"image" is required
+-----------------------------------------------------
+Wed Apr 03 2024 11:18:55 GMT+0300 (שעון ישראל (קיץ))
+"image" is required
+-----------------------------------------------------
+Wed Apr 03 2024 11:19:00 GMT+0300 (שעון ישראל (קיץ))
+"image" is required
+-----------------------------------------------------
+Wed Apr 03 2024 11:19:22 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in.
+-----------------------------------------------------
+Wed Apr 03 2024 11:21:45 GMT+0300 (שעון ישראל (קיץ))
+"startDate" must be greater than or equal to "2024-04-03T08:16:32.519Z"
+-----------------------------------------------------
+Wed Apr 03 2024 11:42:23 GMT+0300 (שעון ישראל (קיץ))
+"image" is required
+-----------------------------------------------------
+Wed Apr 03 2024 12:19:28 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 03 2024 12:20:12 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in.
+-----------------------------------------------------
+Wed Apr 03 2024 12:21:52 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 03 2024 12:21:56 GMT+0300 (שעון ישראל (קיץ))
+id 2 not found.
+-----------------------------------------------------
+Wed Apr 03 2024 12:22:57 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 03 2024 12:23:59 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 03 2024 12:27:39 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in.
+-----------------------------------------------------
+Wed Apr 03 2024 12:28:06 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in.
+-----------------------------------------------------
+Wed Apr 03 2024 12:29:43 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in.
+-----------------------------------------------------
+Wed Apr 03 2024 12:30:15 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in.
+-----------------------------------------------------
+Wed Apr 03 2024 12:31:57 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in.
+-----------------------------------------------------
+Wed Apr 03 2024 12:38:45 GMT+0300 (שעון ישראל (קיץ))
+Incorrect email or password
+-----------------------------------------------------
+Wed Apr 03 2024 12:39:13 GMT+0300 (שעון ישראל (קיץ))
+Incorrect email or password
+-----------------------------------------------------
+Wed Apr 03 2024 12:39:38 GMT+0300 (שעון ישראל (קיץ))
+Incorrect email or password
+-----------------------------------------------------
+Wed Apr 03 2024 12:41:22 GMT+0300 (שעון ישראל (קיץ))
+Email already taken.
+-----------------------------------------------------
+Wed Apr 03 2024 12:41:40 GMT+0300 (שעון ישראל (קיץ))
+Incorrect email or password
+-----------------------------------------------------
+Wed Apr 03 2024 12:42:47 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in.
+-----------------------------------------------------
+Wed Apr 03 2024 12:45:21 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in.
+-----------------------------------------------------
+Wed Apr 03 2024 12:48:27 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in.
+-----------------------------------------------------
+Wed Apr 03 2024 16:33:19 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in.
+-----------------------------------------------------
+Wed Apr 03 2024 19:08:50 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in.
+-----------------------------------------------------
+Wed Apr 03 2024 19:09:01 GMT+0300 (שעון ישראל (קיץ))
+Duplicate entry '2-38' for key 'likes.PRIMARY'
+-----------------------------------------------------
+Wed Apr 03 2024 19:19:27 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in.
+-----------------------------------------------------
+Wed Apr 03 2024 19:22:48 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in.
+-----------------------------------------------------
+Wed Apr 03 2024 19:24:04 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in.
+-----------------------------------------------------
+Wed Apr 03 2024 19:25:46 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in.
+-----------------------------------------------------
+Wed Apr 03 2024 19:25:53 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in.
+-----------------------------------------------------
+Wed Apr 03 2024 19:27:36 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in!!!.
+-----------------------------------------------------
+Wed Apr 03 2024 19:28:41 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in!!!.
+-----------------------------------------------------
+Wed Apr 03 2024 19:30:05 GMT+0300 (שעון ישראל (קיץ))
+"image" is required
+-----------------------------------------------------
+Wed Apr 03 2024 19:31:18 GMT+0300 (שעון ישראל (קיץ))
+"image" is required
+-----------------------------------------------------
+Wed Apr 03 2024 19:31:35 GMT+0300 (שעון ישראל (קיץ))
+"image" is required
+-----------------------------------------------------
+Wed Apr 03 2024 19:31:43 GMT+0300 (שעון ישראל (קיץ))
+"image" is required
+-----------------------------------------------------
+Thu Apr 04 2024 10:29:08 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in!!!.
+-----------------------------------------------------
+Thu Apr 04 2024 10:30:45 GMT+0300 (שעון ישראל (קיץ))
+Route /api/vacations not found.
+-----------------------------------------------------
+Thu Apr 04 2024 10:31:00 GMT+0300 (שעון ישראל (קיץ))
+Route /api/vacations not found.
+-----------------------------------------------------
+Thu Apr 04 2024 10:31:27 GMT+0300 (שעון ישראל (קיץ))
+Route /api/vacations not found.
+-----------------------------------------------------
+Thu Apr 04 2024 10:33:27 GMT+0300 (שעון ישראל (קיץ))
+Route /api/likes/2/2 not found.
+-----------------------------------------------------
+Thu Apr 04 2024 10:33:31 GMT+0300 (שעון ישראל (קיץ))
+Route /api/likes/2/32 not found.
+-----------------------------------------------------
+Thu Apr 04 2024 10:34:49 GMT+0300 (שעון ישראל (קיץ))
+Incorrect email or password
+-----------------------------------------------------
+Thu Apr 04 2024 10:35:11 GMT+0300 (שעון ישראל (קיץ))
+Incorrect email or password
+-----------------------------------------------------
+Thu Apr 04 2024 10:35:22 GMT+0300 (שעון ישראל (קיץ))
+Incorrect email or password
+-----------------------------------------------------
+Thu Apr 04 2024 10:35:34 GMT+0300 (שעון ישראל (קיץ))
+Email already taken.
+-----------------------------------------------------
+Thu Apr 04 2024 10:36:40 GMT+0300 (שעון ישראל (קיץ))
+Email already taken.
+-----------------------------------------------------
+Thu Apr 04 2024 10:38:35 GMT+0300 (שעון ישראל (קיץ))
+You are not authorized.
+-----------------------------------------------------
+Thu Apr 04 2024 10:38:54 GMT+0300 (שעון ישראל (קיץ))
+You are not authorized.
+-----------------------------------------------------
+Thu Apr 04 2024 10:39:13 GMT+0300 (שעון ישראל (קיץ))
+You are not authorized.
+-----------------------------------------------------
+Thu Apr 04 2024 10:39:23 GMT+0300 (שעון ישראל (קיץ))
+You are not authorized.
+-----------------------------------------------------
+Thu Apr 04 2024 10:40:00 GMT+0300 (שעון ישראל (קיץ))
+Cannot add or update a child row: a foreign key constraint fails (`vacation-site`.`likes`, CONSTRAINT `UsersRelation` FOREIGN KEY (`userId`) REFERENCES `users` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+-----------------------------------------------------
+Thu Apr 04 2024 10:47:47 GMT+0300 (שעון ישראל (קיץ))
+"destination" is required
+-----------------------------------------------------
+Thu Apr 04 2024 10:48:04 GMT+0300 (שעון ישראל (קיץ))
+"endDate" must be greater than "ref:startDate"
+-----------------------------------------------------
+Thu Apr 04 2024 10:48:37 GMT+0300 (שעון ישראל (קיץ))
+"endDate" must be greater than "ref:startDate"
+-----------------------------------------------------
+Thu Apr 04 2024 10:49:24 GMT+0300 (שעון ישראל (קיץ))
+"startDate" must be greater than or equal to "2024-04-04T07:45:47.329Z"
+-----------------------------------------------------
+Thu Apr 04 2024 10:49:42 GMT+0300 (שעון ישראל (קיץ))
+"startDate" must be greater than or equal to "2024-04-04T07:45:47.328Z"
+-----------------------------------------------------
+Thu Apr 04 2024 11:19:01 GMT+0300 (שעון ישראל (קיץ))
+Email already taken.
+-----------------------------------------------------
+Thu Apr 04 2024 11:23:02 GMT+0300 (שעון ישראל (קיץ))
+"email" must be a valid email
+-----------------------------------------------------
+Thu Apr 04 2024 11:26:18 GMT+0300 (שעון ישראל (קיץ))
+Email already taken.
+-----------------------------------------------------
+Thu Apr 04 2024 11:32:40 GMT+0300 (שעון ישראל (קיץ))
+Email already taken.
+-----------------------------------------------------
+Thu Apr 04 2024 11:32:54 GMT+0300 (שעון ישראל (קיץ))
+Email already taken.
+-----------------------------------------------------
+Thu Apr 04 2024 13:15:08 GMT+0300 (שעון ישראל (קיץ))
+Email already taken.
+-----------------------------------------------------
+Thu Apr 04 2024 14:08:32 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 04 2024 14:10:55 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'V.vacationId' in 'on clause'
+-----------------------------------------------------
+Thu Apr 04 2024 14:33:14 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'V.vacationId' in 'on clause'
+-----------------------------------------------------
+Thu Apr 04 2024 14:33:23 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'V.vacationId' in 'on clause'
+-----------------------------------------------------
+Thu Apr 04 2024 14:42:13 GMT+0300 (שעון ישראל (קיץ))
+Route /api/vacations not found.
+-----------------------------------------------------
+Thu Apr 04 2024 14:42:25 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'V.vacationId' in 'on clause'
+-----------------------------------------------------
+Thu Apr 04 2024 14:42:35 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'V.vacationId' in 'on clause'
+-----------------------------------------------------
+Thu Apr 04 2024 14:42:58 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'V.vacationId' in 'on clause'
+-----------------------------------------------------
+Thu Apr 04 2024 14:44:00 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'V.vacationId' in 'on clause'
+-----------------------------------------------------
+Thu Apr 04 2024 14:44:19 GMT+0300 (שעון ישראל (קיץ))
+Route /api/vacations-by-id/27 not found.
+-----------------------------------------------------
+Thu Apr 04 2024 15:14:53 GMT+0300 (שעון ישראל (קיץ))
+Route /api/vacations-by-id/27 not found.
+-----------------------------------------------------
+Thu Apr 04 2024 15:16:04 GMT+0300 (שעון ישראל (קיץ))
+Route /api/vacations-by-id/25 not found.
+-----------------------------------------------------
+Thu Apr 04 2024 15:16:29 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'V.vacationId' in 'on clause'
+-----------------------------------------------------
+Thu Apr 04 2024 15:23:17 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'V.vacationId' in 'on clause'
+-----------------------------------------------------
+Sun Apr 07 2024 10:31:41 GMT+0300 (שעון ישראל (קיץ))
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''http://localhost:4000/api/vacations/images/,V.imageName) as imageName,
+        ' at line 3
+-----------------------------------------------------
+Sun Apr 07 2024 10:37:18 GMT+0300 (שעון ישראל (קיץ))
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''http://localhost:4000/api/vacations/images/,V.imageName) as imageName,
+        ' at line 3
+-----------------------------------------------------
+Sun Apr 07 2024 12:16:46 GMT+0300 (שעון ישראל (קיץ))
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''http://localhost:4000/api/vacations/images/,V.imageName) as imageName,
+        ' at line 3
+-----------------------------------------------------
+Sun Apr 07 2024 12:17:10 GMT+0300 (שעון ישראל (קיץ))
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''http://localhost:4000/api/vacations/images/,V.imageName) as imageName,
+        ' at line 3
+-----------------------------------------------------
+Sun Apr 07 2024 14:24:45 GMT+0300 (שעון ישראל (קיץ))
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''http://localhost:4000/api/vacations/images/,V.imageName) as imageName,
+        ' at line 3
+-----------------------------------------------------
+Sun Apr 07 2024 14:25:30 GMT+0300 (שעון ישראל (קיץ))
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''http://localhost:4000/api/vacations/images/,V.imageName) as imageName,
+        ' at line 3
+-----------------------------------------------------
+Sun Apr 07 2024 14:26:56 GMT+0300 (שעון ישראל (קיץ))
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''http://localhost:4000/api/vacations/images/,V.imageName) as imageName,
+        ' at line 3
+-----------------------------------------------------
+Sun Apr 07 2024 14:28:05 GMT+0300 (שעון ישראל (קיץ))
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '://localhost:4000/api/vacations/images/,V.imageName) as imageName,
+            E' at line 3
+-----------------------------------------------------
+Sun Apr 07 2024 14:29:20 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'V.vacationId' in 'where clause'
+-----------------------------------------------------
+Sun Apr 07 2024 14:30:16 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'V.vacationId' in 'on clause'
+-----------------------------------------------------
+Sun Apr 07 2024 14:30:20 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'V.vacationId' in 'on clause'
+-----------------------------------------------------
+Sun Apr 07 2024 14:30:48 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'V.vacationId' in 'on clause'
+-----------------------------------------------------
+Sun Apr 07 2024 14:31:05 GMT+0300 (שעון ישראל (קיץ))
+Expression #9 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'vacation-site.L.userId' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+-----------------------------------------------------
+Sun Apr 07 2024 14:32:09 GMT+0300 (שעון ישראל (קיץ))
+Expression #9 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'vacation-site.L.userId' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+-----------------------------------------------------
+Sun Apr 07 2024 14:32:11 GMT+0300 (שעון ישראל (קיץ))
+Expression #9 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'vacation-site.L.userId' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+-----------------------------------------------------
+Sun Apr 07 2024 14:32:28 GMT+0300 (שעון ישראל (קיץ))
+Route /api/likes/10 not found.
+-----------------------------------------------------
+Sun Apr 07 2024 14:32:36 GMT+0300 (שעון ישראל (קיץ))
+Expression #9 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'vacation-site.L.userId' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+-----------------------------------------------------
+Sun Apr 07 2024 15:54:29 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in
+-----------------------------------------------------
+Sun Apr 07 2024 15:55:34 GMT+0300 (שעון ישראל (קיץ))
+Expression #9 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'vacation-site.L.userId' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+-----------------------------------------------------
+Sun Apr 07 2024 15:59:50 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'V.other_columns' in 'group statement'
+-----------------------------------------------------
+Sun Apr 07 2024 18:57:38 GMT+0300 (שעון ישראל (קיץ))
+Route /api/likes/10 not found.
+-----------------------------------------------------
+Sun Apr 07 2024 18:57:52 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'V.other_columns' in 'group statement'
+-----------------------------------------------------
+Sun Apr 07 2024 18:58:20 GMT+0300 (שעון ישראל (קיץ))
+Expression #9 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'vacation-site.L.userId' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+-----------------------------------------------------
+Sun Apr 07 2024 19:01:31 GMT+0300 (שעון ישראל (קיץ))
+Route /api/likes/10 not found.
+-----------------------------------------------------
+Sun Apr 07 2024 19:01:33 GMT+0300 (שעון ישראל (קיץ))
+Route /api/likes/10 not found.
+-----------------------------------------------------
+Sun Apr 07 2024 19:04:03 GMT+0300 (שעון ישראל (קיץ))
+Expression #9 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'vacation-site.L.userId' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+-----------------------------------------------------
+Tue Apr 09 2024 15:41:05 GMT+0300 (שעון ישראל (קיץ))
+Route /api/vacations/ not found.
+-----------------------------------------------------
+Tue Apr 09 2024 15:41:15 GMT+0300 (שעון ישראל (קיץ))
+Route /api/vacations/ not found.
+-----------------------------------------------------
+Tue Apr 09 2024 15:41:39 GMT+0300 (שעון ישראל (קיץ))
+Route /api/vacations/ not found.
+-----------------------------------------------------
+Tue Apr 09 2024 15:44:21 GMT+0300 (שעון ישראל (קיץ))
+Email already taken.
+-----------------------------------------------------
+Tue Apr 09 2024 15:44:28 GMT+0300 (שעון ישראל (קיץ))
+Column 'roleId' cannot be null
+-----------------------------------------------------
+Tue Apr 09 2024 15:46:07 GMT+0300 (שעון ישראל (קיץ))
+Column 'roleId' cannot be null
+-----------------------------------------------------
+Tue Apr 09 2024 15:48:17 GMT+0300 (שעון ישראל (קיץ))
+Field 'roleId' doesn't have a default value
+-----------------------------------------------------
+Tue Apr 09 2024 15:48:22 GMT+0300 (שעון ישראל (קיץ))
+Field 'roleId' doesn't have a default value
+-----------------------------------------------------
+Tue Apr 09 2024 15:48:39 GMT+0300 (שעון ישראל (קיץ))
+Field 'roleId' doesn't have a default value
+-----------------------------------------------------
+Tue Apr 09 2024 15:48:44 GMT+0300 (שעון ישראל (קיץ))
+Field 'roleId' doesn't have a default value
+-----------------------------------------------------
+Tue Apr 09 2024 15:49:15 GMT+0300 (שעון ישראל (קיץ))
+Field 'roleId' doesn't have a default value
+-----------------------------------------------------
+Tue Apr 09 2024 23:17:21 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:18:00 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:28:06 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:28:40 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:39:26 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:39:26 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:39:26 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:39:26 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:39:26 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:39:26 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:39:26 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:39:38 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:39:38 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:39:38 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:39:38 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:39:38 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:39:38 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:39:38 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:39:38 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:39:54 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:39:54 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:39:54 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:39:54 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:39:54 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:39:57 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:39:57 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:39:57 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:39:57 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:39:57 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:39:57 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:39:57 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:39:57 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:39:57 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:39:57 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:40:04 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:40:04 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:40:04 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:40:04 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:40:04 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:40:04 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:40:04 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:40:06 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:40:06 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:40:06 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:40:06 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:40:06 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:40:06 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:40:06 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:40:06 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:40:06 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:40:06 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:40:41 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:40:41 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:42:00 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:42:00 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:42:00 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:42:00 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:42:00 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:42:00 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:42:04 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:42:04 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:42:04 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:42:04 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:42:04 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:42:04 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:42:04 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:42:04 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:42:04 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:42:04 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:42:09 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:42:09 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:42:09 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:42:09 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:42:09 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:42:09 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:43:04 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:45:57 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Tue Apr 09 2024 23:46:20 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in
+-----------------------------------------------------
+Tue Apr 09 2024 23:47:02 GMT+0300 (שעון ישראל (קיץ))
+You are not authorized.
+-----------------------------------------------------
+Tue Apr 09 2024 23:48:30 GMT+0300 (שעון ישראל (קיץ))
+You are not authorized.
+-----------------------------------------------------
+Tue Apr 09 2024 23:48:42 GMT+0300 (שעון ישראל (קיץ))
+You are not authorized.
+-----------------------------------------------------
+Tue Apr 09 2024 23:49:15 GMT+0300 (שעון ישראל (קיץ))
+Email already taken.
+-----------------------------------------------------
+Tue Apr 09 2024 23:50:01 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in
+-----------------------------------------------------
+Tue Apr 09 2024 23:50:33 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in
+-----------------------------------------------------
+Tue Apr 09 2024 23:51:16 GMT+0300 (שעון ישראל (קיץ))
+Email already taken.
+-----------------------------------------------------
+Tue Apr 09 2024 23:51:45 GMT+0300 (שעון ישראל (קיץ))
+Field 'roleId' doesn't have a default value
+-----------------------------------------------------
+Tue Apr 09 2024 23:51:49 GMT+0300 (שעון ישראל (קיץ))
+Field 'roleId' doesn't have a default value
+-----------------------------------------------------
+Tue Apr 09 2024 23:52:07 GMT+0300 (שעון ישראל (קיץ))
+Field 'roleId' doesn't have a default value
+-----------------------------------------------------
+Tue Apr 09 2024 23:52:10 GMT+0300 (שעון ישראל (קיץ))
+Field 'roleId' doesn't have a default value
+-----------------------------------------------------
+Tue Apr 09 2024 23:52:18 GMT+0300 (שעון ישראל (קיץ))
+Field 'roleId' doesn't have a default value
+-----------------------------------------------------
+Tue Apr 09 2024 23:52:32 GMT+0300 (שעון ישראל (קיץ))
+Field 'roleId' doesn't have a default value
+-----------------------------------------------------
+Tue Apr 09 2024 23:52:53 GMT+0300 (שעון ישראל (קיץ))
+Field 'roleId' doesn't have a default value
+-----------------------------------------------------
+Tue Apr 09 2024 23:53:23 GMT+0300 (שעון ישראל (קיץ))
+Field 'roleId' doesn't have a default value
+-----------------------------------------------------
+Tue Apr 09 2024 23:53:42 GMT+0300 (שעון ישראל (קיץ))
+Field 'roleId' doesn't have a default value
+-----------------------------------------------------
+Tue Apr 09 2024 23:54:34 GMT+0300 (שעון ישראל (קיץ))
+"startDate" must be greater than or equal to "2024-04-09T20:54:13.110Z"
+-----------------------------------------------------
+Tue Apr 09 2024 23:55:33 GMT+0300 (שעון ישראל (קיץ))
+"imageName" is required
+-----------------------------------------------------
+Tue Apr 09 2024 23:55:42 GMT+0300 (שעון ישראל (קיץ))
+"imageName" is required
+-----------------------------------------------------
+Tue Apr 09 2024 23:55:48 GMT+0300 (שעון ישראל (קיץ))
+"imageName" is required
+-----------------------------------------------------
+Tue Apr 09 2024 23:56:00 GMT+0300 (שעון ישראל (קיץ))
+"imageName" is required
+-----------------------------------------------------
+Tue Apr 09 2024 23:56:16 GMT+0300 (שעון ישראל (קיץ))
+"imageName" is required
+-----------------------------------------------------
+Tue Apr 09 2024 23:56:45 GMT+0300 (שעון ישראל (קיץ))
+"imageName" is required
+-----------------------------------------------------
+Tue Apr 09 2024 23:56:54 GMT+0300 (שעון ישראל (קיץ))
+"imageName" is required
+-----------------------------------------------------
+Tue Apr 09 2024 23:57:16 GMT+0300 (שעון ישראל (קיץ))
+"imageName" is required
+-----------------------------------------------------
+Tue Apr 09 2024 23:57:40 GMT+0300 (שעון ישראל (קיץ))
+"imageName" is required
+-----------------------------------------------------
+Wed Apr 10 2024 00:00:32 GMT+0300 (שעון ישראל (קיץ))
+"imageName" is required
+-----------------------------------------------------
+Wed Apr 10 2024 00:01:12 GMT+0300 (שעון ישראל (קיץ))
+"imageName" is required
+-----------------------------------------------------
+Wed Apr 10 2024 00:01:37 GMT+0300 (שעון ישראל (קיץ))
+"imageName" is required
+-----------------------------------------------------
+Wed Apr 10 2024 00:02:59 GMT+0300 (שעון ישראל (קיץ))
+"imageName" is required
+-----------------------------------------------------
+Wed Apr 10 2024 00:03:11 GMT+0300 (שעון ישראל (קיץ))
+"imageName" is required
+-----------------------------------------------------
+Wed Apr 10 2024 00:04:35 GMT+0300 (שעון ישראל (קיץ))
+"imageName" is not allowed
+-----------------------------------------------------
+Wed Apr 10 2024 00:06:06 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'vacationDestination' in 'field list'
+-----------------------------------------------------
+Wed Apr 10 2024 00:06:49 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'vacationDestination' in 'field list'
+-----------------------------------------------------
+Wed Apr 10 2024 00:16:09 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 00:16:29 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in
+-----------------------------------------------------
+Wed Apr 10 2024 00:17:50 GMT+0300 (שעון ישראל (קיץ))
+Email already taken.
+-----------------------------------------------------
+Wed Apr 10 2024 00:17:56 GMT+0300 (שעון ישראל (קיץ))
+Email already taken.
+-----------------------------------------------------
+Wed Apr 10 2024 00:18:00 GMT+0300 (שעון ישראל (קיץ))
+Column 'roleId' cannot be null
+-----------------------------------------------------
+Wed Apr 10 2024 00:18:06 GMT+0300 (שעון ישראל (קיץ))
+Column 'roleId' cannot be null
+-----------------------------------------------------
+Wed Apr 10 2024 00:20:05 GMT+0300 (שעון ישראל (קיץ))
+Column 'roleId' cannot be null
+-----------------------------------------------------
+Wed Apr 10 2024 00:24:53 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in
+-----------------------------------------------------
+Wed Apr 10 2024 00:25:38 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in
+-----------------------------------------------------
+Wed Apr 10 2024 00:26:35 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in
+-----------------------------------------------------
+Wed Apr 10 2024 00:26:47 GMT+0300 (שעון ישראל (קיץ))
+Incorrect email or password
+-----------------------------------------------------
+Wed Apr 10 2024 00:27:14 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in
+-----------------------------------------------------
+Wed Apr 10 2024 00:27:49 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 00:28:07 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 00:43:14 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 00:43:14 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 00:43:14 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 00:43:14 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 00:43:14 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 00:43:14 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 00:43:14 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 00:43:14 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 01:45:23 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 01:45:23 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 01:45:23 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 01:51:47 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 01:51:47 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 01:51:47 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 01:51:47 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 01:52:45 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 01:52:45 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 01:52:45 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 01:52:45 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 01:52:45 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 01:57:14 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 01:57:14 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 01:57:14 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 01:58:28 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 01:58:28 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 01:59:20 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 01:59:20 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 01:59:20 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 01:59:20 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 01:59:22 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 01:59:22 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 01:59:22 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 01:59:22 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 01:59:22 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 01:59:22 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 01:59:22 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 01:59:22 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 01:59:22 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 01:59:22 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 02:03:05 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 02:03:05 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 02:03:05 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 02:03:05 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 02:03:05 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 02:03:05 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 02:03:05 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 02:03:05 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 02:03:05 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 02:03:05 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 02:03:14 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 02:06:56 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 02:06:56 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 02:06:56 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 02:06:56 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 02:06:56 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 02:37:12 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 02:37:12 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 02:37:12 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 14:48:12 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 14:48:12 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 14:48:12 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 14:48:12 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 14:50:50 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 14:50:50 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 14:51:16 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 14:51:16 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 14:51:16 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 15:27:49 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 15:28:42 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 15:28:42 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 15:28:42 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 15:28:42 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 15:28:54 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 15:28:54 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 15:28:54 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 15:28:54 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed Apr 10 2024 20:04:08 GMT+0300 (שעון ישראל (קיץ))
+Route /api/vacations/ not found.
+-----------------------------------------------------
+Wed Apr 10 2024 20:06:22 GMT+0300 (שעון ישראל (קיץ))
+Route /api/vacations/:userId not found.
+-----------------------------------------------------
+Wed Apr 10 2024 23:28:59 GMT+0300 (שעון ישראל (קיץ))
+Route /api/vacations/:userId not found.
+-----------------------------------------------------
+Wed Apr 10 2024 23:29:45 GMT+0300 (שעון ישראל (קיץ))
+Route /api/vacations/:userId not found.
+-----------------------------------------------------
+Wed Apr 10 2024 23:51:15 GMT+0300 (שעון ישראל (קיץ))
+Route /api/vacations/:userId not found.
+-----------------------------------------------------
+Thu Apr 11 2024 00:54:29 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 00:54:29 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 00:54:29 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 00:54:29 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 01:00:48 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 01:00:48 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 01:00:48 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 01:00:48 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 01:18:17 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 01:18:17 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 01:18:17 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 01:18:17 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 01:18:17 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 01:18:17 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 01:18:17 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 01:18:17 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 01:18:17 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 01:20:05 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 01:20:05 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 01:20:05 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 01:20:05 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 10:52:39 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in
+-----------------------------------------------------
+Thu Apr 11 2024 10:53:18 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in
+-----------------------------------------------------
+Thu Apr 11 2024 10:53:59 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in
+-----------------------------------------------------
+Thu Apr 11 2024 10:56:24 GMT+0300 (שעון ישראל (קיץ))
+"startDate" must be greater than or equal to "2024-04-11T07:55:14.303Z"
+-----------------------------------------------------
+Thu Apr 11 2024 10:56:33 GMT+0300 (שעון ישראל (קיץ))
+"startDate" must be greater than or equal to "2024-04-11T07:55:14.303Z"
+-----------------------------------------------------
+Thu Apr 11 2024 10:56:39 GMT+0300 (שעון ישראל (קיץ))
+"startDate" must be greater than or equal to "2024-04-11T07:55:14.303Z"
+-----------------------------------------------------
+Thu Apr 11 2024 10:56:55 GMT+0300 (שעון ישראל (קיץ))
+"endDate" must be greater than "ref:startDate"
+-----------------------------------------------------
+Thu Apr 11 2024 11:02:28 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 11:02:47 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 11:03:08 GMT+0300 (שעון ישראל (קיץ))
+"id" must be a number
+-----------------------------------------------------
+Thu Apr 11 2024 11:04:03 GMT+0300 (שעון ישראל (קיץ))
+"id" must be a number
+-----------------------------------------------------
+Thu Apr 11 2024 11:06:46 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 11:06:57 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 11:07:00 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 11:07:21 GMT+0300 (שעון ישראל (קיץ))
+"id" must be a number
+-----------------------------------------------------
+Thu Apr 11 2024 11:07:46 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 11:08:35 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 11:08:37 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 11:08:39 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 11:08:41 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 11:10:04 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 11:10:07 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 11:10:10 GMT+0300 (שעון ישראל (קיץ))
+"id" must be a number
+-----------------------------------------------------
+Thu Apr 11 2024 11:10:17 GMT+0300 (שעון ישראל (קיץ))
+"id" must be a number
+-----------------------------------------------------
+Thu Apr 11 2024 11:11:52 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 11:13:46 GMT+0300 (שעון ישראל (קיץ))
+"id" must be a number
+-----------------------------------------------------
+Thu Apr 11 2024 11:14:48 GMT+0300 (שעון ישראל (קיץ))
+"id" must be a number
+-----------------------------------------------------
+Thu Apr 11 2024 11:14:59 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 11:15:00 GMT+0300 (שעון ישראל (קיץ))
+"id" must be a number
+-----------------------------------------------------
+Thu Apr 11 2024 11:15:13 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 11:17:03 GMT+0300 (שעון ישראל (קיץ))
+"id" must be a number
+-----------------------------------------------------
+Thu Apr 11 2024 11:24:28 GMT+0300 (שעון ישראל (קיץ))
+"id" must be a number
+-----------------------------------------------------
+Thu Apr 11 2024 11:31:48 GMT+0300 (שעון ישראל (קיץ))
+"id" must be a number
+-----------------------------------------------------
+Thu Apr 11 2024 11:40:12 GMT+0300 (שעון ישראל (קיץ))
+"id" must be a number
+-----------------------------------------------------
+Thu Apr 11 2024 11:42:53 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 11:42:55 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 11:43:00 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 11:43:16 GMT+0300 (שעון ישראל (קיץ))
+"id" must be a number
+-----------------------------------------------------
+Thu Apr 11 2024 12:12:07 GMT+0300 (שעון ישראל (קיץ))
+"startDate" must be greater than or equal to "2024-04-11T08:17:03.543Z"
+-----------------------------------------------------
+Thu Apr 11 2024 12:12:19 GMT+0300 (שעון ישראל (קיץ))
+"startDate" must be greater than or equal to "2024-04-11T08:17:03.543Z"
+-----------------------------------------------------
+Thu Apr 11 2024 12:21:29 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:21:29 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:21:29 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:21:29 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:21:29 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:21:29 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:21:29 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:21:31 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:21:31 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:21:31 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:21:31 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:21:31 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:21:31 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:21:31 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:21:31 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:21:31 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:21:31 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:25:53 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:25:53 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:25:53 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:25:53 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:25:53 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:25:53 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:25:53 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:25:53 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:25:53 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:25:53 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:25:55 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:25:55 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:25:55 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:25:55 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:25:55 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:25:55 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:25:55 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:25:55 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:25:55 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:25:55 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:25:59 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:25:59 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:25:59 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:25:59 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:25:59 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:25:59 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:25:59 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:26:01 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:26:01 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:26:01 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:26:01 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:26:01 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:26:01 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:26:01 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:26:01 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:26:01 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:26:01 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:26:02 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:26:02 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:26:02 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:26:02 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:26:02 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:26:03 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:26:03 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:26:03 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:26:03 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:26:03 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:26:07 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:26:07 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:26:07 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:26:07 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:34:35 GMT+0300 (שעון ישראל (קיץ))
+Route /api/vacations/9 not found.
+-----------------------------------------------------
+Thu Apr 11 2024 12:34:56 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in
+-----------------------------------------------------
+Thu Apr 11 2024 12:40:03 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:40:03 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:40:03 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 12:40:03 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 13:38:14 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in
+-----------------------------------------------------
+Thu Apr 11 2024 13:39:10 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 13:46:39 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 13:47:00 GMT+0300 (שעון ישראל (קיץ))
+"id" must be a number
+-----------------------------------------------------
+Thu Apr 11 2024 13:47:07 GMT+0300 (שעון ישראל (קיץ))
+"id" must be a number
+-----------------------------------------------------
+Thu Apr 11 2024 14:09:03 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 14:10:53 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 14:11:37 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 14:12:19 GMT+0300 (שעון ישראל (קיץ))
+"id" must be a number
+-----------------------------------------------------
+Thu Apr 11 2024 14:13:15 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 14:13:22 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 14:13:23 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 14:13:25 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 14:15:56 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 14:16:33 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 14:17:05 GMT+0300 (שעון ישראל (קיץ))
+"id" must be a number
+-----------------------------------------------------
+Thu Apr 11 2024 14:19:14 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 14:20:24 GMT+0300 (שעון ישראל (קיץ))
+Route /api/vacations/NaN not found.
+-----------------------------------------------------
+Thu Apr 11 2024 14:20:40 GMT+0300 (שעון ישראל (קיץ))
+Route /api/vacations/NaN not found.
+-----------------------------------------------------
+Thu Apr 11 2024 14:21:28 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 14:22:03 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 14:22:19 GMT+0300 (שעון ישראל (קיץ))
+"id" must be a number
+-----------------------------------------------------
+Thu Apr 11 2024 14:22:44 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 14:22:50 GMT+0300 (שעון ישראל (קיץ))
+"id" must be a number
+-----------------------------------------------------
+Thu Apr 11 2024 14:23:14 GMT+0300 (שעון ישראל (קיץ))
+"id" must be a number
+-----------------------------------------------------
+Thu Apr 11 2024 14:23:45 GMT+0300 (שעון ישראל (קיץ))
+"id" must be a number
+-----------------------------------------------------
+Thu Apr 11 2024 14:24:22 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 14:24:26 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 14:24:41 GMT+0300 (שעון ישראל (קיץ))
+"id" must be a number
+-----------------------------------------------------
+Thu Apr 11 2024 14:34:33 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 14:36:04 GMT+0300 (שעון ישראל (קיץ))
+"id" must be a number
+-----------------------------------------------------
+Thu Apr 11 2024 14:48:28 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 14:48:31 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 14:48:33 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 14:50:10 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 14:51:44 GMT+0300 (שעון ישראל (קיץ))
+"destination" is required
+-----------------------------------------------------
+Thu Apr 11 2024 15:11:42 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 15:12:03 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 15:12:07 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 15:12:54 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 15:12:57 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 21:34:35 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 21:34:52 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 21:35:16 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in
+-----------------------------------------------------
+Thu Apr 11 2024 21:35:32 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 21:35:49 GMT+0300 (שעון ישראל (קיץ))
+"id" must be a number
+-----------------------------------------------------
+Thu Apr 11 2024 21:36:50 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 21:39:31 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 21:39:41 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 21:39:49 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 21:40:14 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Thu Apr 11 2024 21:46:23 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in
+-----------------------------------------------------
+Thu Apr 11 2024 21:49:36 GMT+0300 (שעון ישראל (קיץ))
+Route /api/vacations not found.
+-----------------------------------------------------
+Thu Apr 11 2024 21:49:46 GMT+0300 (שעון ישראל (קיץ))
+Route /api/vacations/9 not found.
+-----------------------------------------------------
+Thu Apr 11 2024 21:49:57 GMT+0300 (שעון ישראל (קיץ))
+Route /api/vacations/9 not found.
+-----------------------------------------------------
+Thu Apr 11 2024 21:50:24 GMT+0300 (שעון ישראל (קיץ))
+Route /api/vacations/9 not found.
+-----------------------------------------------------
+Thu Apr 11 2024 21:51:28 GMT+0300 (שעון ישראל (קיץ))
+Route /api/vacations/9 not found.
+-----------------------------------------------------
+Thu Apr 11 2024 21:52:08 GMT+0300 (שעון ישראל (קיץ))
+Route /api/vacations/9 not found.
+-----------------------------------------------------
+Thu Apr 11 2024 21:52:15 GMT+0300 (שעון ישראל (קיץ))
+Route /api/vacations/9 not found.
+-----------------------------------------------------
+Thu Apr 11 2024 21:53:57 GMT+0300 (שעון ישראל (קיץ))
+Route /api/vacations/9 not found.
+-----------------------------------------------------
+Thu Apr 11 2024 21:59:54 GMT+0300 (שעון ישראל (קיץ))
+Route /api/vacations/9 not found.
+-----------------------------------------------------
+Thu Apr 11 2024 22:01:44 GMT+0300 (שעון ישראל (קיץ))
+Route /api/vacations/9 not found.
+-----------------------------------------------------
+Thu Apr 11 2024 22:02:02 GMT+0300 (שעון ישראל (קיץ))
+Cannot read properties of undefined (reading 'imageName')
+-----------------------------------------------------
+Thu Apr 11 2024 22:05:03 GMT+0300 (שעון ישראל (קיץ))
+Route /api/vacations/11 not found.
+-----------------------------------------------------
+Thu Apr 11 2024 22:05:32 GMT+0300 (שעון ישראל (קיץ))
+Route /api/vacations/11 not found.
+-----------------------------------------------------
+Thu Apr 11 2024 22:06:32 GMT+0300 (שעון ישראל (קיץ))
+Route /api/vacations/11 not found.
+-----------------------------------------------------
+Thu Apr 11 2024 22:07:18 GMT+0300 (שעון ישראל (קיץ))
+Route /api/vacations/11 not found.
+-----------------------------------------------------
+Thu Apr 11 2024 22:08:38 GMT+0300 (שעון ישראל (קיץ))
+Route /api/vacations/11 not found.
+-----------------------------------------------------
+Thu Apr 11 2024 22:19:41 GMT+0300 (שעון ישראל (קיץ))
+Route /api/vacations/ not found.
+-----------------------------------------------------
+Thu Apr 11 2024 22:19:46 GMT+0300 (שעון ישראל (קיץ))
+Route /api/vacations/ not found.
+-----------------------------------------------------
+Mon Apr 15 2024 23:38:28 GMT+0300 (שעון ישראל (קיץ))
+Email already taken.
+-----------------------------------------------------
+Mon Apr 15 2024 23:38:32 GMT+0300 (שעון ישראל (קיץ))
+Email already taken.
+-----------------------------------------------------
+Mon Apr 15 2024 23:46:57 GMT+0300 (שעון ישראל (קיץ))
+Incorrect email or password
+-----------------------------------------------------
+Mon Apr 15 2024 23:46:59 GMT+0300 (שעון ישראל (קיץ))
+Incorrect email or password
+-----------------------------------------------------
+Mon Apr 15 2024 23:47:19 GMT+0300 (שעון ישראל (קיץ))
+You are not authorized.
+-----------------------------------------------------
+Mon Apr 15 2024 23:48:11 GMT+0300 (שעון ישראל (קיץ))
+You are not authorized.
+-----------------------------------------------------
+Mon Apr 15 2024 23:48:50 GMT+0300 (שעון ישראל (קיץ))
+Incorrect date value: '2024-10-11T21:00:00.000Z' for column 'startDate' at row 1
+-----------------------------------------------------
+Mon Apr 15 2024 23:53:04 GMT+0300 (שעון ישראל (קיץ))
+Incorrect date value: '2024-10-10T21:00:00.000Z' for column 'startDate' at row 1
+-----------------------------------------------------
+Mon Apr 15 2024 23:54:45 GMT+0300 (שעון ישראל (קיץ))
+"destination" is required
+-----------------------------------------------------
+Mon Apr 15 2024 23:54:51 GMT+0300 (שעון ישראל (קיץ))
+"destination" is required
+-----------------------------------------------------
+Mon Apr 15 2024 23:55:14 GMT+0300 (שעון ישראל (קיץ))
+Incorrect date value: '2024-10-09T21:00:00.000Z' for column 'startDate' at row 1
+-----------------------------------------------------
+Mon Apr 15 2024 23:58:01 GMT+0300 (שעון ישראל (קיץ))
+"startDate" must be greater than or equal to "2024-04-15T20:32:51.984Z"
+-----------------------------------------------------
+Mon Apr 15 2024 23:58:10 GMT+0300 (שעון ישראל (קיץ))
+"startDate" must be greater than or equal to "2024-04-15T20:32:51.984Z"
+-----------------------------------------------------
+Mon Apr 15 2024 23:58:15 GMT+0300 (שעון ישראל (קיץ))
+"startDate" must be greater than or equal to "2024-04-15T20:32:51.984Z"
+-----------------------------------------------------
+Mon Apr 15 2024 23:58:25 GMT+0300 (שעון ישראל (קיץ))
+"endDate" must be greater than "ref:startDate"
+-----------------------------------------------------
+Tue Apr 16 2024 02:16:07 GMT+0300 (שעון ישראל (קיץ))
+Cannot add or update a child row: a foreign key constraint fails (`vacation-site`.`likes`, CONSTRAINT `UsersRelation` FOREIGN KEY (`userId`) REFERENCES `users` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+-----------------------------------------------------
+Tue Apr 16 2024 02:17:40 GMT+0300 (שעון ישראל (קיץ))
+Cannot add or update a child row: a foreign key constraint fails (`vacation-site`.`likes`, CONSTRAINT `UsersRelation` FOREIGN KEY (`userId`) REFERENCES `users` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+-----------------------------------------------------
+Tue Apr 16 2024 02:18:25 GMT+0300 (שעון ישראל (קיץ))
+Cannot add or update a child row: a foreign key constraint fails (`vacation-site`.`likes`, CONSTRAINT `UsersRelation` FOREIGN KEY (`userId`) REFERENCES `users` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+-----------------------------------------------------
+Tue Apr 16 2024 02:18:27 GMT+0300 (שעון ישראל (קיץ))
+Cannot add or update a child row: a foreign key constraint fails (`vacation-site`.`likes`, CONSTRAINT `UsersRelation` FOREIGN KEY (`userId`) REFERENCES `users` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+-----------------------------------------------------
+Tue Apr 16 2024 02:27:53 GMT+0300 (שעון ישראל (קיץ))
+id 21 not found.
+-----------------------------------------------------
+Tue Apr 16 2024 02:28:27 GMT+0300 (שעון ישראל (קיץ))
+Cannot add or update a child row: a foreign key constraint fails (`vacation-site`.`likes`, CONSTRAINT `UsersRelation` FOREIGN KEY (`userId`) REFERENCES `users` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+-----------------------------------------------------
+Tue Apr 16 2024 02:28:42 GMT+0300 (שעון ישראל (קיץ))
+id 21 not found.
+-----------------------------------------------------
+Tue Apr 16 2024 02:28:49 GMT+0300 (שעון ישראל (קיץ))
+Cannot add or update a child row: a foreign key constraint fails (`vacation-site`.`likes`, CONSTRAINT `UsersRelation` FOREIGN KEY (`userId`) REFERENCES `users` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+-----------------------------------------------------
+Tue Apr 16 2024 02:28:57 GMT+0300 (שעון ישראל (קיץ))
+id 21 not found.
+-----------------------------------------------------
+Tue Apr 16 2024 02:33:36 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in
+-----------------------------------------------------
+Tue Apr 16 2024 02:35:01 GMT+0300 (שעון ישראל (קיץ))
+Route /api/like/50/21 not found.
+-----------------------------------------------------
+Tue Apr 16 2024 02:36:58 GMT+0300 (שעון ישראל (קיץ))
+Route /api/like/21/50 not found.
+-----------------------------------------------------
+Tue Apr 16 2024 02:44:30 GMT+0300 (שעון ישראל (קיץ))
+Route /favicon.ico not found.
+-----------------------------------------------------
+Tue Apr 16 2024 02:45:13 GMT+0300 (שעון ישראל (קיץ))
+Route /api/vacations not found.
+-----------------------------------------------------
+Tue Apr 16 2024 03:17:21 GMT+0300 (שעון ישראל (קיץ))
+Cannot add or update a child row: a foreign key constraint fails (`vacation-site`.`likes`, CONSTRAINT `UsersRelation` FOREIGN KEY (`userId`) REFERENCES `users` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+-----------------------------------------------------
+Tue Apr 16 2024 03:26:12 GMT+0300 (שעון ישראל (קיץ))
+Cannot add or update a child row: a foreign key constraint fails (`vacation-site`.`likes`, CONSTRAINT `UsersRelation` FOREIGN KEY (`userId`) REFERENCES `users` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+-----------------------------------------------------
+Tue Apr 16 2024 03:48:03 GMT+0300 (שעון ישראל (קיץ))
+Cannot add or update a child row: a foreign key constraint fails (`vacation-site`.`likes`, CONSTRAINT `relation-likes` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+-----------------------------------------------------
+Tue Apr 16 2024 03:52:50 GMT+0300 (שעון ישראל (קיץ))
+Cannot add or update a child row: a foreign key constraint fails (`vacation-site`.`likes`, CONSTRAINT `relation-vacations` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+-----------------------------------------------------
+Tue Apr 16 2024 04:02:49 GMT+0300 (שעון ישראל (קיץ))
+Cannot add or update a child row: a foreign key constraint fails (`vacation-site`.`likes`, CONSTRAINT `relation-vacations` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+-----------------------------------------------------
+Tue Apr 16 2024 04:22:10 GMT+0300 (שעון ישראל (קיץ))
+Cannot add or update a child row: a foreign key constraint fails (`vacation-site`.`likes`, CONSTRAINT `UsersRelation` FOREIGN KEY (`userId`) REFERENCES `users` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+-----------------------------------------------------
+Tue Apr 16 2024 04:54:35 GMT+0300 (שעון ישראל (קיץ))
+Incorrect email or password
+-----------------------------------------------------
+Tue Apr 16 2024 04:54:41 GMT+0300 (שעון ישראל (קיץ))
+Incorrect email or password
+-----------------------------------------------------
+Tue Apr 16 2024 04:55:25 GMT+0300 (שעון ישראל (קיץ))
+Cannot add or update a child row: a foreign key constraint fails (`vacation-site`.`likes`, CONSTRAINT `RelationVacations` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`id`) ON DELETE RESTRICT ON UPDATE RESTRICT)
+-----------------------------------------------------
+Tue Apr 16 2024 05:05:36 GMT+0300 (שעון ישראל (קיץ))
+Incorrect email or password
+-----------------------------------------------------
+Tue Apr 16 2024 05:05:39 GMT+0300 (שעון ישראל (קיץ))
+Incorrect email or password
+-----------------------------------------------------
+Tue Apr 16 2024 05:05:46 GMT+0300 (שעון ישראל (קיץ))
+Incorrect email or password
+-----------------------------------------------------
+Tue Apr 16 2024 05:05:53 GMT+0300 (שעון ישראל (קיץ))
+Incorrect email or password
+-----------------------------------------------------
+Tue Apr 16 2024 05:06:29 GMT+0300 (שעון ישראל (קיץ))
+Cannot add or update a child row: a foreign key constraint fails (`vacation-site`.`likes`, CONSTRAINT `RelationVacations` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`id`) ON DELETE RESTRICT ON UPDATE RESTRICT)
+-----------------------------------------------------
+Tue Apr 16 2024 05:08:48 GMT+0300 (שעון ישראל (קיץ))
+Cannot add or update a child row: a foreign key constraint fails (`vacation-site`.`likes`, CONSTRAINT `RelationUsers` FOREIGN KEY (`userId`) REFERENCES `users` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+-----------------------------------------------------
+Tue Apr 16 2024 05:13:11 GMT+0300 (שעון ישראל (קיץ))
+Cannot add or update a child row: a foreign key constraint fails (`vacation-site`.`likes`, CONSTRAINT `RelationVacations` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+-----------------------------------------------------
+Tue Apr 16 2024 05:14:32 GMT+0300 (שעון ישראל (קיץ))
+Incorrect email or password
+-----------------------------------------------------
+Tue Apr 16 2024 05:14:39 GMT+0300 (שעון ישראל (קיץ))
+Incorrect email or password
+-----------------------------------------------------
+Tue Apr 16 2024 05:15:36 GMT+0300 (שעון ישראל (קיץ))
+Duplicate entry '2' for key 'likes.PRIMARY'
+-----------------------------------------------------
+Tue Apr 16 2024 05:17:52 GMT+0300 (שעון ישראל (קיץ))
+id 8 not found.
+-----------------------------------------------------
+Tue Apr 16 2024 05:18:27 GMT+0300 (שעון ישראל (קיץ))
+Cannot add or update a child row: a foreign key constraint fails (`vacation-site`.`likes`, CONSTRAINT `RelationUsers` FOREIGN KEY (`userId`) REFERENCES `users` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+-----------------------------------------------------
+Tue Apr 16 2024 11:23:19 GMT+0300 (שעון ישראל (קיץ))
+Cannot add or update a child row: a foreign key constraint fails (`vacation-site`.`likes`, CONSTRAINT `RelationUsers` FOREIGN KEY (`userId`) REFERENCES `users` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+-----------------------------------------------------
+Tue Apr 16 2024 11:23:29 GMT+0300 (שעון ישראל (קיץ))
+Duplicate entry '2' for key 'likes.PRIMARY'
+-----------------------------------------------------
+Tue Apr 16 2024 11:23:38 GMT+0300 (שעון ישראל (קיץ))
+id 8 not found.
+-----------------------------------------------------
+Tue Apr 16 2024 11:23:49 GMT+0300 (שעון ישראל (קיץ))
+id 8 not found.
+-----------------------------------------------------
+Tue Apr 16 2024 11:23:53 GMT+0300 (שעון ישראל (קיץ))
+Duplicate entry '2' for key 'likes.PRIMARY'
+-----------------------------------------------------
+Tue Apr 16 2024 11:26:46 GMT+0300 (שעון ישראל (קיץ))
+Incorrect email or password
+-----------------------------------------------------
+Tue Apr 16 2024 11:27:14 GMT+0300 (שעון ישראל (קיץ))
+Duplicate entry '3' for key 'likes.PRIMARY'
+-----------------------------------------------------
+Tue Apr 16 2024 11:34:58 GMT+0300 (שעון ישראל (קיץ))
+id 8 not found.
+-----------------------------------------------------
+Tue Apr 16 2024 11:45:15 GMT+0300 (שעון ישראל (קיץ))
+Duplicate entry '3-8' for key 'likes.PRIMARY'
+-----------------------------------------------------
+Tue Apr 16 2024 11:50:31 GMT+0300 (שעון ישראל (קיץ))
+Cannot add or update a child row: a foreign key constraint fails (`vacation-site`.`likes`, CONSTRAINT `RelationUsers` FOREIGN KEY (`userId`) REFERENCES `users` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+-----------------------------------------------------
+Tue Apr 16 2024 11:55:35 GMT+0300 (שעון ישראל (קיץ))
+id 8 not found.
+-----------------------------------------------------
+Tue Apr 16 2024 11:57:20 GMT+0300 (שעון ישראל (קיץ))
+Route /api/like/ not found.
+-----------------------------------------------------
+Tue Apr 16 2024 12:55:46 GMT+0300 (שעון ישראל (קיץ))
+user 2 or vacation 8 duplicate.
+-----------------------------------------------------
+Tue Apr 16 2024 12:57:18 GMT+0300 (שעון ישראל (קיץ))
+user 3 or vacation 8 duplicate.
+-----------------------------------------------------
+Tue Apr 16 2024 13:47:06 GMT+0300 (שעון ישראל (קיץ))
+user 9 or vacation 8 not found.
+-----------------------------------------------------
+Tue Apr 16 2024 13:47:18 GMT+0300 (שעון ישראל (קיץ))
+id 8 not found.
+-----------------------------------------------------
+Tue Apr 16 2024 13:47:52 GMT+0300 (שעון ישראל (קיץ))
+id 8 not found.
+-----------------------------------------------------
+Tue Apr 16 2024 14:13:50 GMT+0300 (שעון ישראל (קיץ))
+Incorrect email or password
+-----------------------------------------------------
+Tue Apr 16 2024 14:36:29 GMT+0300 (שעון ישראל (קיץ))
+Incorrect email or password
+-----------------------------------------------------
+Tue Apr 16 2024 14:36:35 GMT+0300 (שעון ישראל (קיץ))
+Incorrect email or password
+-----------------------------------------------------
+Tue Apr 16 2024 14:49:23 GMT+0300 (שעון ישראל (קיץ))
+user 2 or vacation 5 not found.
+-----------------------------------------------------
+Tue Apr 16 2024 14:49:45 GMT+0300 (שעון ישראל (קיץ))
+id 5 not found.
+-----------------------------------------------------
+Tue Apr 16 2024 14:57:12 GMT+0300 (שעון ישראל (קיץ))
+user 2 or vacation 5 not found.
+-----------------------------------------------------
+Tue Apr 16 2024 14:57:41 GMT+0300 (שעון ישראל (קיץ))
+id 5 not found.
+-----------------------------------------------------
+Tue Apr 16 2024 15:12:51 GMT+0300 (שעון ישראל (קיץ))
+user 8 or vacation 5 not found.
+-----------------------------------------------------
+Tue Apr 16 2024 15:12:56 GMT+0300 (שעון ישראל (קיץ))
+user 9 or vacation 5 not found.
+-----------------------------------------------------
+Tue Apr 16 2024 15:13:00 GMT+0300 (שעון ישראל (קיץ))
+user 3 or vacation 5 not found.
+-----------------------------------------------------
+Tue Apr 16 2024 15:13:57 GMT+0300 (שעון ישראל (קיץ))
+id 5 not found.
+-----------------------------------------------------
+Tue Apr 16 2024 15:14:00 GMT+0300 (שעון ישראל (קיץ))
+id 5 not found.
+-----------------------------------------------------
+Tue Apr 16 2024 15:14:05 GMT+0300 (שעון ישראל (קיץ))
+id 5 not found.
+-----------------------------------------------------
+Tue Apr 16 2024 15:17:27 GMT+0300 (שעון ישראל (קיץ))
+user 3 or vacation 5 not found.
+-----------------------------------------------------
+Tue Apr 16 2024 15:18:50 GMT+0300 (שעון ישראל (קיץ))
+user 9 or vacation 5 not found.
+-----------------------------------------------------
+Tue Apr 16 2024 15:19:29 GMT+0300 (שעון ישראל (קיץ))
+id 5 not found.
+-----------------------------------------------------
+Tue Apr 16 2024 15:20:13 GMT+0300 (שעון ישראל (קיץ))
+user 9 or vacation 5 not found.
+-----------------------------------------------------
+Tue Apr 16 2024 15:20:16 GMT+0300 (שעון ישראל (קיץ))
+id 5 not found.
+-----------------------------------------------------
+Tue Apr 16 2024 15:41:42 GMT+0300 (שעון ישראל (קיץ))
+user 8 or vacation 6 not found.
+-----------------------------------------------------
+Tue Apr 16 2024 15:45:18 GMT+0300 (שעון ישראל (קיץ))
+user 2 or vacation 6 not found.
+-----------------------------------------------------
+Tue Apr 16 2024 15:47:51 GMT+0300 (שעון ישראל (קיץ))
+id 2 not found.
+-----------------------------------------------------
+Tue Apr 16 2024 15:50:50 GMT+0300 (שעון ישראל (קיץ))
+id 6 not found.
+-----------------------------------------------------
+Tue Apr 16 2024 15:53:25 GMT+0300 (שעון ישראל (קיץ))
+user 2 or vacation 6 not found.
+-----------------------------------------------------
+Tue Apr 16 2024 16:02:41 GMT+0300 (שעון ישראל (קיץ))
+user 9 or vacation 6 not found.
+-----------------------------------------------------
+Tue Apr 16 2024 16:02:51 GMT+0300 (שעון ישראל (קיץ))
+id 6 not found.
+-----------------------------------------------------
+Tue Apr 16 2024 16:09:49 GMT+0300 (שעון ישראל (קיץ))
+user 9 or vacation 6 not found.
+-----------------------------------------------------
+Tue Apr 16 2024 16:11:50 GMT+0300 (שעון ישראל (קיץ))
+id 6 not found.
+-----------------------------------------------------
+Tue Apr 16 2024 16:17:03 GMT+0300 (שעון ישראל (קיץ))
+user 3 or vacation 6 not found.
+-----------------------------------------------------
+Tue Apr 16 2024 16:17:09 GMT+0300 (שעון ישראל (קיץ))
+id 6 not found.
+-----------------------------------------------------
+Tue Apr 16 2024 16:19:43 GMT+0300 (שעון ישראל (קיץ))
+Route /api/like/21/50 not found.
+-----------------------------------------------------
+Tue Apr 16 2024 16:19:49 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in
+-----------------------------------------------------
+Tue Apr 16 2024 16:40:38 GMT+0300 (שעון ישראל (קיץ))
+Cannot add or update a child row: a foreign key constraint fails (`vacation-site`.`likes`, CONSTRAINT `RelationUsers` FOREIGN KEY (`userId`) REFERENCES `users` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+-----------------------------------------------------
+Tue Apr 16 2024 16:41:58 GMT+0300 (שעון ישראל (קיץ))
+id 6 not found.
+-----------------------------------------------------
+Tue Apr 16 2024 16:48:54 GMT+0300 (שעון ישראל (קיץ))
+Cannot add or update a child row: a foreign key constraint fails (`vacation-site`.`likes`, CONSTRAINT `RelationUsers` FOREIGN KEY (`userId`) REFERENCES `users` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+-----------------------------------------------------
+Tue Apr 16 2024 16:50:14 GMT+0300 (שעון ישראל (קיץ))
+id 6 not found.
+-----------------------------------------------------
+Thu Apr 18 2024 14:38:06 GMT+0300 (שעון ישראל (קיץ))
+Cannot add or update a child row: a foreign key constraint fails (`vacation-site`.`likes`, CONSTRAINT `RelationVacations` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+-----------------------------------------------------
+Thu Apr 18 2024 14:38:14 GMT+0300 (שעון ישראל (קיץ))
+Cannot add or update a child row: a foreign key constraint fails (`vacation-site`.`likes`, CONSTRAINT `RelationUsers` FOREIGN KEY (`userId`) REFERENCES `users` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+-----------------------------------------------------
+Thu Apr 18 2024 14:45:46 GMT+0300 (שעון ישראל (קיץ))
+Cannot add or update a child row: a foreign key constraint fails (`vacation-site`.`likes`, CONSTRAINT `RelationVacations` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+-----------------------------------------------------
+Thu Apr 18 2024 14:45:48 GMT+0300 (שעון ישראל (קיץ))
+Cannot add or update a child row: a foreign key constraint fails (`vacation-site`.`likes`, CONSTRAINT `RelationVacations` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+-----------------------------------------------------
+Thu Apr 18 2024 14:45:59 GMT+0300 (שעון ישראל (קיץ))
+Cannot add or update a child row: a foreign key constraint fails (`vacation-site`.`likes`, CONSTRAINT `RelationVacations` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+-----------------------------------------------------
+Thu Apr 18 2024 14:46:33 GMT+0300 (שעון ישראל (קיץ))
+Cannot add or update a child row: a foreign key constraint fails (`vacation-site`.`likes`, CONSTRAINT `RelationVacations` FOREIGN KEY (`vacationId`) REFERENCES `vacations` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+-----------------------------------------------------
+Thu Apr 18 2024 14:46:36 GMT+0300 (שעון ישראל (קיץ))
+Cannot add or update a child row: a foreign key constraint fails (`vacation-site`.`likes`, CONSTRAINT `RelationUsers` FOREIGN KEY (`userId`) REFERENCES `users` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+-----------------------------------------------------
+Thu Apr 18 2024 14:48:09 GMT+0300 (שעון ישראל (קיץ))
+id 7 not found.
+-----------------------------------------------------
+Thu Apr 18 2024 14:48:16 GMT+0300 (שעון ישראל (קיץ))
+id 7 not found.
+-----------------------------------------------------
+Thu Apr 18 2024 15:01:33 GMT+0300 (שעון ישראל (קיץ))
+Email already taken.
+-----------------------------------------------------
+Thu Apr 18 2024 15:01:58 GMT+0300 (שעון ישראל (קיץ))
+Incorrect email or password
+-----------------------------------------------------
+Thu Apr 18 2024 15:03:49 GMT+0300 (שעון ישראל (קיץ))
+Incorrect email or password
+-----------------------------------------------------
+Thu Apr 18 2024 15:03:51 GMT+0300 (שעון ישראל (קיץ))
+Incorrect email or password
+-----------------------------------------------------
+Thu Apr 18 2024 15:31:00 GMT+0300 (שעון ישראל (קיץ))
+"endDate" must be greater than "ref:startDate"
+-----------------------------------------------------
+Thu Apr 18 2024 15:31:07 GMT+0300 (שעון ישראל (קיץ))
+"endDate" must be greater than "ref:startDate"
+-----------------------------------------------------
+Thu Apr 18 2024 17:19:20 GMT+0300 (שעון ישראל (קיץ))
+"startDate" must be greater than or equal to "2024-04-18T09:15:34.843Z"
+-----------------------------------------------------
+Thu Apr 18 2024 17:19:39 GMT+0300 (שעון ישראל (קיץ))
+"endDate" must be greater than "ref:startDate"
+-----------------------------------------------------
+Thu Apr 18 2024 17:19:49 GMT+0300 (שעון ישראל (קיץ))
+"startDate" must be greater than or equal to "2024-04-18T09:15:34.843Z"
+-----------------------------------------------------
+Thu Apr 18 2024 17:39:22 GMT+0300 (שעון ישראל (קיץ))
+Incorrect email or password
+-----------------------------------------------------
+Thu Apr 18 2024 18:15:29 GMT+0300 (שעון ישראל (קיץ))
+"startDate" must be greater than or equal to "2024-04-18T09:15:34.843Z"
+-----------------------------------------------------
+Thu Apr 18 2024 18:15:41 GMT+0300 (שעון ישראל (קיץ))
+"endDate" must be greater than "ref:startDate"
+-----------------------------------------------------
+Thu Apr 18 2024 18:30:41 GMT+0300 (שעון ישראל (קיץ))
+"startDate" must be greater than or equal to "2024-04-18T09:15:34.843Z"
+-----------------------------------------------------
+Fri Apr 19 2024 05:37:49 GMT+0300 (שעון ישראל (קיץ))
+Incorrect email or password
+-----------------------------------------------------
+Sat Apr 20 2024 21:03:40 GMT+0300 (שעון ישראל (קיץ))
+Duplicate entry '8-3' for key 'likes.PRIMARY'
+-----------------------------------------------------
+Sat Apr 20 2024 21:03:59 GMT+0300 (שעון ישראל (קיץ))
+Duplicate entry '8-3' for key 'likes.PRIMARY'
+-----------------------------------------------------
+Sat Apr 20 2024 21:13:05 GMT+0300 (שעון ישראל (קיץ))
+Duplicate entry '8-2' for key 'likes.PRIMARY'
+-----------------------------------------------------
+Sat Apr 20 2024 21:13:22 GMT+0300 (שעון ישראל (קיץ))
+Duplicate entry '8-2' for key 'likes.PRIMARY'
+-----------------------------------------------------
+Sat Apr 20 2024 21:21:01 GMT+0300 (שעון ישראל (קיץ))
+Duplicate entry '8-2' for key 'likes.PRIMARY'
+-----------------------------------------------------
+Sat Apr 20 2024 21:44:22 GMT+0300 (שעון ישראל (קיץ))
+Email already taken.
+-----------------------------------------------------
+Sat Apr 20 2024 21:44:58 GMT+0300 (שעון ישראל (קיץ))
+Duplicate entry '11-2' for key 'likes.PRIMARY'
+-----------------------------------------------------
+Sat Apr 20 2024 21:45:01 GMT+0300 (שעון ישראל (קיץ))
+Duplicate entry '11-2' for key 'likes.PRIMARY'
+-----------------------------------------------------
+Sat Apr 20 2024 21:45:19 GMT+0300 (שעון ישראל (קיץ))
+Duplicate entry '11-2' for key 'likes.PRIMARY'
+-----------------------------------------------------
+Sat Apr 20 2024 21:46:26 GMT+0300 (שעון ישראל (קיץ))
+Duplicate entry '11-2' for key 'likes.PRIMARY'
+-----------------------------------------------------
+Sat Apr 20 2024 21:50:07 GMT+0300 (שעון ישראל (קיץ))
+Cannot read properties of undefined (reading 'imageName')
+-----------------------------------------------------
+Sat Apr 20 2024 21:50:11 GMT+0300 (שעון ישראל (קיץ))
+Cannot read properties of undefined (reading 'imageName')
+-----------------------------------------------------
+Sat Apr 20 2024 21:50:23 GMT+0300 (שעון ישראל (קיץ))
+Cannot read properties of undefined (reading 'imageName')
+-----------------------------------------------------
+Sat Apr 20 2024 21:54:03 GMT+0300 (שעון ישראל (קיץ))
+Duplicate entry '12-8' for key 'likes.PRIMARY'
+-----------------------------------------------------
+Sat Apr 20 2024 22:11:40 GMT+0300 (שעון ישראל (קיץ))
+Duplicate entry '13-8' for key 'likes.PRIMARY'
+-----------------------------------------------------
+Sat Apr 20 2024 22:51:02 GMT+0300 (שעון ישראל (קיץ))
+Incorrect email or password
+-----------------------------------------------------
+Sat Apr 20 2024 22:56:27 GMT+0300 (שעון ישראל (קיץ))
+Duplicate entry '12-11' for key 'likes.PRIMARY'
+-----------------------------------------------------
+Sat Apr 20 2024 22:59:15 GMT+0300 (שעון ישראל (קיץ))
+id 12 not found.
+-----------------------------------------------------
+Sat Apr 20 2024 22:59:21 GMT+0300 (שעון ישראל (קיץ))
+id 12 not found.
+-----------------------------------------------------
+Sat Apr 20 2024 23:00:07 GMT+0300 (שעון ישראל (קיץ))
+Duplicate entry '12-8' for key 'likes.PRIMARY'
+-----------------------------------------------------
+Sat Apr 20 2024 23:47:28 GMT+0300 (שעון ישראל (קיץ))
+id 11 not found.
+-----------------------------------------------------
+Sat Apr 20 2024 23:56:49 GMT+0300 (שעון ישראל (קיץ))
+Route /api/like//3/11 not found.
+-----------------------------------------------------
+Sun Apr 21 2024 00:00:51 GMT+0300 (שעון ישראל (קיץ))
+Route /api/like//8/13 not found.
+-----------------------------------------------------
+Sun Apr 21 2024 00:01:28 GMT+0300 (שעון ישראל (קיץ))
+Route /api/like//8/14 not found.
+-----------------------------------------------------
+Sun Apr 21 2024 00:01:40 GMT+0300 (שעון ישראל (קיץ))
+Route /api/like//8/11 not found.
+-----------------------------------------------------
+Sun Apr 21 2024 00:02:12 GMT+0300 (שעון ישראל (קיץ))
+Route /api/like//8/13 not found.
+-----------------------------------------------------
+Sun Apr 21 2024 00:03:35 GMT+0300 (שעון ישראל (קיץ))
+Route /api/like//8/11 not found.
+-----------------------------------------------------
+Sun Apr 21 2024 00:04:17 GMT+0300 (שעון ישראל (קיץ))
+Route /api/like//8/15 not found.
+-----------------------------------------------------
+Sun Apr 21 2024 00:05:06 GMT+0300 (שעון ישראל (קיץ))
+Route /api/like//3/15 not found.
+-----------------------------------------------------
+Sun Apr 21 2024 00:09:53 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in
+-----------------------------------------------------
+Sun Apr 21 2024 00:10:45 GMT+0300 (שעון ישראל (קיץ))
+id 3 not found.
+-----------------------------------------------------
+Sun Apr 21 2024 00:11:38 GMT+0300 (שעון ישראל (קיץ))
+id 3 not found.
+-----------------------------------------------------
+Sun Apr 21 2024 00:11:50 GMT+0300 (שעון ישראל (קיץ))
+id 8 not found.
+-----------------------------------------------------
+Sun Apr 21 2024 00:16:40 GMT+0300 (שעון ישראל (קיץ))
+Route /api/like//8/11 not found.
+-----------------------------------------------------
+Sun Apr 21 2024 00:18:57 GMT+0300 (שעון ישראל (קיץ))
+Route /api/like//8/11 not found.
+-----------------------------------------------------
+Sun Apr 21 2024 00:20:01 GMT+0300 (שעון ישראל (קיץ))
+Route /api/like//8/11 not found.
+-----------------------------------------------------
+Sun Apr 21 2024 00:20:06 GMT+0300 (שעון ישראל (קיץ))
+id 8 not found.
+-----------------------------------------------------
+Sun Apr 21 2024 01:37:38 GMT+0300 (שעון ישראל (קיץ))
+id 8 not found.
+-----------------------------------------------------
+Sun Apr 21 2024 02:31:26 GMT+0300 (שעון ישראל (קיץ))
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '// SELECT DISTINCT
+        //     V.*,
+        //     CONCAT('http://localhost:4' at line 1
+-----------------------------------------------------
+Sun Apr 21 2024 02:32:00 GMT+0300 (שעון ישראל (קיץ))
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '// SELECT DISTINCT
+        //     V.*,
+        //     CONCAT('http://localhost:4' at line 1
+-----------------------------------------------------
+Sun Apr 21 2024 02:32:59 GMT+0300 (שעון ישראל (קיץ))
+id 8 not found.
+-----------------------------------------------------
+Sun Apr 21 2024 02:33:33 GMT+0300 (שעון ישראל (קיץ))
+id 8 not found.
+-----------------------------------------------------
+Sun Apr 21 2024 02:33:37 GMT+0300 (שעון ישראל (קיץ))
+id 8 not found.
+-----------------------------------------------------
+Sun Apr 21 2024 02:34:11 GMT+0300 (שעון ישראל (קיץ))
+id 3 not found.
+-----------------------------------------------------
+Sun Apr 21 2024 02:34:25 GMT+0300 (שעון ישראל (קיץ))
+id 3 not found.
+-----------------------------------------------------
+Sun Apr 21 2024 02:34:35 GMT+0300 (שעון ישראל (קיץ))
+id 3 not found.
+-----------------------------------------------------
+Sun Apr 21 2024 02:35:09 GMT+0300 (שעון ישראל (קיץ))
+id 3 not found.
+-----------------------------------------------------
+Sun Apr 21 2024 02:41:02 GMT+0300 (שעון ישראל (קיץ))
+Duplicate entry '11-8' for key 'likes.PRIMARY'
+-----------------------------------------------------
+Sun Apr 21 2024 02:43:41 GMT+0300 (שעון ישראל (קיץ))
+Duplicate entry '15-8' for key 'likes.PRIMARY'
+-----------------------------------------------------
+Sun Apr 21 2024 02:43:45 GMT+0300 (שעון ישראל (קיץ))
+Duplicate entry '15-3' for key 'likes.PRIMARY'
+-----------------------------------------------------
+Sun Apr 21 2024 02:44:46 GMT+0300 (שעון ישראל (קיץ))
+id 11 not found.
+-----------------------------------------------------
+Sun Apr 21 2024 02:47:28 GMT+0300 (שעון ישראל (קיץ))
+id 11 not found.
+-----------------------------------------------------
+Sun Apr 21 2024 02:48:13 GMT+0300 (שעון ישראל (קיץ))
+id 11 not found.
+-----------------------------------------------------
+Sun Apr 21 2024 02:49:13 GMT+0300 (שעון ישראל (קיץ))
+id 11 not found.
+-----------------------------------------------------
+Sun Apr 21 2024 02:50:20 GMT+0300 (שעון ישראל (קיץ))
+id 11 not found.
+-----------------------------------------------------
+Sun Apr 21 2024 03:26:37 GMT+0300 (שעון ישראל (קיץ))
+Route /api/vacations/ not found.
+-----------------------------------------------------
+Sun Apr 21 2024 03:27:21 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Sun Apr 21 2024 03:27:33 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Sun Apr 21 2024 05:39:43 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in
+-----------------------------------------------------
+Sun Apr 21 2024 05:51:16 GMT+0300 (שעון ישראל (קיץ))
+"description" length must be less than or equal to 260 characters long
+-----------------------------------------------------
+Sun Apr 21 2024 05:52:27 GMT+0300 (שעון ישראל (קיץ))
+"description" length must be less than or equal to 260 characters long
+-----------------------------------------------------
+Sun Apr 21 2024 05:52:42 GMT+0300 (שעון ישראל (קיץ))
+"description" length must be less than or equal to 260 characters long
+-----------------------------------------------------
+Sun Apr 21 2024 05:53:04 GMT+0300 (שעון ישראל (קיץ))
+"description" length must be less than or equal to 260 characters long
+-----------------------------------------------------
+Sun Apr 21 2024 05:53:15 GMT+0300 (שעון ישראל (קיץ))
+"description" length must be less than or equal to 260 characters long
+-----------------------------------------------------
+Sun Apr 21 2024 05:59:37 GMT+0300 (שעון ישראל (קיץ))
+"startDate" must be greater than or equal to "2024-04-21T02:49:57.132Z"
+-----------------------------------------------------
+Sun Apr 21 2024 11:18:11 GMT+0300 (שעון ישראל (קיץ))
+Incorrect date value: '2024-03-12T22:00:00.000Z' for column 'startDate' at row 1
+-----------------------------------------------------
+Sun Apr 21 2024 11:18:17 GMT+0300 (שעון ישראל (קיץ))
+Incorrect date value: '2024-03-12T22:00:00.000Z' for column 'startDate' at row 1
+-----------------------------------------------------
+Sun Apr 21 2024 11:18:22 GMT+0300 (שעון ישראל (קיץ))
+Incorrect date value: '2024-03-12T22:00:00.000Z' for column 'startDate' at row 1
+-----------------------------------------------------
+Sun Apr 21 2024 11:20:32 GMT+0300 (שעון ישראל (קיץ))
+Incorrect date value: '2024-03-11T22:00:00.000Z' for column 'startDate' at row 1
+-----------------------------------------------------
+Sun Apr 21 2024 11:21:03 GMT+0300 (שעון ישראל (קיץ))
+Incorrect date value: '2024-03-10T22:00:00.000Z' for column 'startDate' at row 1
+-----------------------------------------------------
+Sun Apr 21 2024 11:21:48 GMT+0300 (שעון ישראל (קיץ))
+Incorrect date value: '2024-03-09T22:00:00.000Z' for column 'startDate' at row 1
+-----------------------------------------------------
+Sun Apr 21 2024 11:34:58 GMT+0300 (שעון ישראל (קיץ))
+"description" length must be less than or equal to 260 characters long
+-----------------------------------------------------
+Sun Apr 21 2024 11:36:00 GMT+0300 (שעון ישראל (קיץ))
+"description" length must be less than or equal to 260 characters long
+-----------------------------------------------------
+Sun Apr 21 2024 11:37:30 GMT+0300 (שעון ישראל (קיץ))
+"description" length must be less than or equal to 260 characters long
+-----------------------------------------------------
+Sun Apr 21 2024 11:47:15 GMT+0300 (שעון ישראל (קיץ))
+"endDate" must be greater than "ref:startDate"
+-----------------------------------------------------
+Sun Apr 21 2024 11:48:34 GMT+0300 (שעון ישראל (קיץ))
+"endDate" must be greater than "ref:startDate"
+-----------------------------------------------------
+Sun Apr 21 2024 11:51:15 GMT+0300 (שעון ישראל (קיץ))
+"startDate" must be greater than or equal to "2024-04-21T08:17:07.098Z"
+-----------------------------------------------------
+Sun Apr 21 2024 11:51:24 GMT+0300 (שעון ישראל (קיץ))
+"startDate" must be greater than or equal to "2024-04-21T08:17:07.098Z"
+-----------------------------------------------------
+Sun Apr 21 2024 11:52:09 GMT+0300 (שעון ישראל (קיץ))
+Incorrect date value: '2024-08-11T21:00:00.000Z' for column 'startDate' at row 1
+-----------------------------------------------------
+Sun Apr 21 2024 11:52:28 GMT+0300 (שעון ישראל (קיץ))
+Incorrect date value: '2024-06-23T21:00:00.000Z' for column 'startDate' at row 1
+-----------------------------------------------------
+Sun Apr 21 2024 11:55:57 GMT+0300 (שעון ישראל (קיץ))
+Incorrect date value: '2024-08-10T21:00:00.000Z' for column 'startDate' at row 1
+-----------------------------------------------------
+Sun Apr 21 2024 12:44:16 GMT+0300 (שעון ישראל (קיץ))
+Email already taken.
+-----------------------------------------------------
+Sun Apr 21 2024 13:08:03 GMT+0300 (שעון ישראל (קיץ))
+id 12 not found.
+-----------------------------------------------------
+Sun Apr 21 2024 13:08:08 GMT+0300 (שעון ישראל (קיץ))
+id 12 not found.
+-----------------------------------------------------
+Sun Apr 21 2024 13:08:11 GMT+0300 (שעון ישראל (קיץ))
+id 12 not found.
+-----------------------------------------------------
+Sun Apr 21 2024 13:08:13 GMT+0300 (שעון ישראל (קיץ))
+id 12 not found.
+-----------------------------------------------------
+Sun Apr 21 2024 13:26:03 GMT+0300 (שעון ישראל (קיץ))
+Duplicate entry '11-11' for key 'likes.PRIMARY'
+-----------------------------------------------------
+Sun Apr 21 2024 13:37:38 GMT+0300 (שעון ישראל (קיץ))
+Duplicate entry '16-11' for key 'likes.PRIMARY'
+-----------------------------------------------------
+Sun Apr 21 2024 13:37:44 GMT+0300 (שעון ישראל (קיץ))
+Duplicate entry '16-11' for key 'likes.PRIMARY'
+-----------------------------------------------------
+Sun Apr 21 2024 13:37:46 GMT+0300 (שעון ישראל (קיץ))
+Duplicate entry '16-8' for key 'likes.PRIMARY'
+-----------------------------------------------------
+Sun Apr 21 2024 14:03:02 GMT+0300 (שעון ישראל (קיץ))
+"endDate" must be greater than "ref:startDate"
+-----------------------------------------------------
+Sun Apr 21 2024 14:19:20 GMT+0300 (שעון ישראל (קיץ))
+"startDate" must be greater than or equal to "2024-04-21T09:14:16.503Z"
+-----------------------------------------------------
+Sun Apr 21 2024 14:30:16 GMT+0300 (שעון ישראל (קיץ))
+Incorrect email or password
+-----------------------------------------------------
+Sun Apr 21 2024 14:32:00 GMT+0300 (שעון ישראל (קיץ))
+Incorrect email or password
+-----------------------------------------------------
+Sun Apr 21 2024 15:43:57 GMT+0300 (שעון ישראל (קיץ))
+Duplicate entry '11-8' for key 'likes.PRIMARY'
+-----------------------------------------------------
+Sun Apr 21 2024 15:44:00 GMT+0300 (שעון ישראל (קיץ))
+Duplicate entry '11-25' for key 'likes.PRIMARY'
+-----------------------------------------------------
+Sun Apr 21 2024 16:14:37 GMT+0300 (שעון ישראל (קיץ))
+Duplicate entry '12-16' for key 'likes.PRIMARY'
+-----------------------------------------------------
+Sun Apr 21 2024 17:06:58 GMT+0300 (שעון ישראל (קיץ))
+Incorrect email or password
+-----------------------------------------------------
+Sun Apr 21 2024 17:15:18 GMT+0300 (שעון ישראל (קיץ))
+Email already taken.
+-----------------------------------------------------
+Sun Apr 21 2024 17:17:04 GMT+0300 (שעון ישראל (קיץ))
+"startDate" must be greater than or equal to "2024-04-21T13:11:17.717Z"
+-----------------------------------------------------
+Sun Apr 21 2024 17:17:22 GMT+0300 (שעון ישראל (קיץ))
+"startDate" must be greater than or equal to "2024-04-21T13:11:17.717Z"
+-----------------------------------------------------
+Sun Apr 21 2024 17:17:28 GMT+0300 (שעון ישראל (קיץ))
+"startDate" must be greater than or equal to "2024-04-21T13:11:17.717Z"
+-----------------------------------------------------
+Sun Apr 21 2024 17:17:42 GMT+0300 (שעון ישראל (קיץ))
+"startDate" must be greater than or equal to "2024-04-21T13:11:17.717Z"
+-----------------------------------------------------
+Sun Apr 21 2024 17:17:56 GMT+0300 (שעון ישראל (קיץ))
+"endDate" must be greater than "ref:startDate"
+-----------------------------------------------------
+Sun Apr 21 2024 17:21:28 GMT+0300 (שעון ישראל (קיץ))
+id 29 not found.
+-----------------------------------------------------
+Sun Apr 21 2024 17:23:50 GMT+0300 (שעון ישראל (קיץ))
+"endDate" must be greater than "ref:startDate"
+-----------------------------------------------------
+Sun May 12 2024 15:39:16 GMT+0300 (שעון ישראל (קיץ))
+Incorrect email or password
+-----------------------------------------------------
+Sun May 12 2024 15:39:18 GMT+0300 (שעון ישראל (קיץ))
+Incorrect email or password
+-----------------------------------------------------
+Sun May 12 2024 15:39:25 GMT+0300 (שעון ישראל (קיץ))
+Incorrect email or password
+-----------------------------------------------------
+Sun May 12 2024 15:39:42 GMT+0300 (שעון ישראל (קיץ))
+Email already taken.
+-----------------------------------------------------
+Sun May 12 2024 15:39:48 GMT+0300 (שעון ישראל (קיץ))
+Email already taken.
+-----------------------------------------------------
+Sun May 12 2024 15:43:56 GMT+0300 (שעון ישראל (קיץ))
+id 19 not found.
+-----------------------------------------------------
+Sun May 12 2024 15:44:58 GMT+0300 (שעון ישראל (קיץ))
+id 19 not found.
+-----------------------------------------------------
+Sun May 19 2024 15:01:48 GMT+0300 (שעון ישראל (קיץ))
+Incorrect email or password
+-----------------------------------------------------
+Sun May 19 2024 15:01:55 GMT+0300 (שעון ישראל (קיץ))
+Incorrect email or password
+-----------------------------------------------------
+Sun May 19 2024 15:13:34 GMT+0300 (שעון ישראל (קיץ))
+Route /api/vacations not found.
+-----------------------------------------------------
+Sun May 19 2024 15:13:55 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in
+-----------------------------------------------------
+Sun May 19 2024 15:14:57 GMT+0300 (שעון ישראל (קיץ))
+Route /api/vacations not found.
+-----------------------------------------------------
+Sun May 19 2024 15:15:17 GMT+0300 (שעון ישראל (קיץ))
+"description" length must be less than or equal to 180 characters long
+-----------------------------------------------------
+Sun May 19 2024 15:17:23 GMT+0300 (שעון ישראל (קיץ))
+"description" length must be less than or equal to 180 characters long
+-----------------------------------------------------
+Sun May 19 2024 15:17:34 GMT+0300 (שעון ישראל (קיץ))
+"description" length must be less than or equal to 180 characters long
+-----------------------------------------------------
+Sun May 19 2024 15:22:26 GMT+0300 (שעון ישראל (קיץ))
+Route /api/vacations not found.
+-----------------------------------------------------
+Sun May 19 2024 15:35:06 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Sun May 19 2024 15:35:12 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Sun May 19 2024 15:35:16 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Sun May 19 2024 15:35:20 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Sun May 19 2024 15:35:22 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Sun May 19 2024 15:35:25 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Sun May 19 2024 15:35:42 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Sun May 19 2024 15:35:45 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Sun May 19 2024 15:37:02 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Sun May 19 2024 15:37:06 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed May 22 2024 10:43:22 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed May 22 2024 10:43:28 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed May 22 2024 10:43:35 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed May 22 2024 10:47:33 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed May 22 2024 10:50:04 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in
+-----------------------------------------------------
+Wed May 22 2024 10:50:28 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in
+-----------------------------------------------------
+Wed May 22 2024 10:50:30 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in
+-----------------------------------------------------
+Wed May 22 2024 10:51:08 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in
+-----------------------------------------------------
+Wed May 22 2024 10:51:10 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in
+-----------------------------------------------------
+Wed May 22 2024 10:51:44 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in
+-----------------------------------------------------
+Wed May 22 2024 10:52:54 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in
+-----------------------------------------------------
+Wed May 22 2024 10:57:55 GMT+0300 (שעון ישראל (קיץ))
+"image" is required
+-----------------------------------------------------
+Wed May 22 2024 10:58:46 GMT+0300 (שעון ישראל (קיץ))
+"imageName" is required
+-----------------------------------------------------
+Wed May 22 2024 10:59:03 GMT+0300 (שעון ישראל (קיץ))
+"imageName" is required
+-----------------------------------------------------
+Wed May 22 2024 10:59:29 GMT+0300 (שעון ישראל (קיץ))
+"imageName" is required
+-----------------------------------------------------
+Wed May 22 2024 10:59:32 GMT+0300 (שעון ישראל (קיץ))
+"imageName" is required
+-----------------------------------------------------
+Wed May 22 2024 10:59:53 GMT+0300 (שעון ישראל (קיץ))
+"imageName" is required
+-----------------------------------------------------
+Wed May 22 2024 11:02:08 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed May 22 2024 11:02:13 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed May 22 2024 11:02:51 GMT+0300 (שעון ישראל (קיץ))
+"description" length must be less than or equal to 180 characters long
+-----------------------------------------------------
+Wed May 22 2024 11:03:03 GMT+0300 (שעון ישראל (קיץ))
+"description" length must be less than or equal to 180 characters long
+-----------------------------------------------------
+Wed May 22 2024 11:03:12 GMT+0300 (שעון ישראל (קיץ))
+"imageName" is required
+-----------------------------------------------------
+Wed May 22 2024 11:04:00 GMT+0300 (שעון ישראל (קיץ))
+"image" is not allowed
+-----------------------------------------------------
+Wed May 22 2024 11:05:05 GMT+0300 (שעון ישראל (קיץ))
+"image" is not allowed
+-----------------------------------------------------
+Wed May 22 2024 11:05:34 GMT+0300 (שעון ישראל (קיץ))
+"image" is not allowed
+-----------------------------------------------------
+Wed May 22 2024 11:06:23 GMT+0300 (שעון ישראל (קיץ))
+"image" is not allowed
+-----------------------------------------------------
+Wed May 22 2024 11:08:26 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed May 22 2024 11:08:45 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed May 22 2024 11:08:55 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed May 22 2024 11:08:58 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed May 22 2024 11:08:59 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed May 22 2024 11:09:01 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed May 22 2024 11:09:27 GMT+0300 (שעון ישראל (קיץ))
+"description" length must be less than or equal to 180 characters long
+-----------------------------------------------------
+Wed May 22 2024 11:09:37 GMT+0300 (שעון ישראל (קיץ))
+"image" is not allowed
+-----------------------------------------------------
+Wed May 22 2024 11:10:18 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed May 22 2024 11:12:27 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed May 22 2024 11:13:33 GMT+0300 (שעון ישראל (קיץ))
+"description" length must be less than or equal to 180 characters long
+-----------------------------------------------------
+Wed May 22 2024 11:13:59 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed May 22 2024 11:15:36 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed May 22 2024 11:16:46 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed May 22 2024 11:17:57 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed May 22 2024 11:20:47 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed May 22 2024 11:25:03 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed May 22 2024 11:25:22 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed May 22 2024 11:26:55 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed May 22 2024 11:27:08 GMT+0300 (שעון ישראל (קיץ))
+Unknown column 'NaN' in 'where clause'
+-----------------------------------------------------
+Wed May 22 2024 13:03:19 GMT+0300 (שעון ישראל (קיץ))
+id 12 not found.
+-----------------------------------------------------
+Wed May 22 2024 14:24:04 GMT+0300 (שעון ישראל (קיץ))
+id 12 not found.
+-----------------------------------------------------
+Mon May 27 2024 13:03:45 GMT+0300 (שעון ישראל (קיץ))
+Duplicate entry '11-16' for key 'likes.PRIMARY'
+-----------------------------------------------------
+Mon May 27 2024 13:03:49 GMT+0300 (שעון ישראל (קיץ))
+Duplicate entry '11-20' for key 'likes.PRIMARY'
+-----------------------------------------------------
+Mon May 27 2024 17:25:29 GMT+0300 (שעון ישראל (קיץ))
+Duplicate entry '11-15' for key 'likes.PRIMARY'
+-----------------------------------------------------
+Mon May 27 2024 17:26:46 GMT+0300 (שעון ישראל (קיץ))
+Duplicate entry '15-11' for key 'likes.PRIMARY'
+-----------------------------------------------------
+Mon May 27 2024 17:26:48 GMT+0300 (שעון ישראל (קיץ))
+Duplicate entry '15-11' for key 'likes.PRIMARY'
+-----------------------------------------------------
+Mon May 27 2024 17:26:49 GMT+0300 (שעון ישראל (קיץ))
+Duplicate entry '15-11' for key 'likes.PRIMARY'
+-----------------------------------------------------
+Mon May 27 2024 17:26:50 GMT+0300 (שעון ישראל (קיץ))
+Duplicate entry '15-11' for key 'likes.PRIMARY'
+-----------------------------------------------------
+Wed May 29 2024 13:14:08 GMT+0300 (שעון ישראל (קיץ))
+You are not logged-in
+-----------------------------------------------------
+Wed May 29 2024 13:14:21 GMT+0300 (שעון ישראל (קיץ))
+id 11 not found.
+-----------------------------------------------------
+Wed May 29 2024 13:14:23 GMT+0300 (שעון ישראל (קיץ))
+id 11 not found.
+-----------------------------------------------------
+Wed May 29 2024 13:55:51 GMT+0300 (שעון ישראל (קיץ))
+"description" length must be less than or equal to 180 characters long
+-----------------------------------------------------
+Wed May 29 2024 13:55:56 GMT+0300 (שעון ישראל (קיץ))
+"description" length must be less than or equal to 180 characters long
+-----------------------------------------------------
+Wed May 29 2024 13:56:00 GMT+0300 (שעון ישראל (קיץ))
+"description" length must be less than or equal to 180 characters long
+-----------------------------------------------------
+Wed May 29 2024 14:12:04 GMT+0300 (שעון ישראל (קיץ))
+"startDate" must be greater than or equal to "2024-05-29T10:14:54.805Z"
+-----------------------------------------------------
+Wed May 29 2024 14:12:07 GMT+0300 (שעון ישראל (קיץ))
+"startDate" must be greater than or equal to "2024-05-29T10:14:54.805Z"
+-----------------------------------------------------
+Wed May 29 2024 14:14:02 GMT+0300 (שעון ישראל (קיץ))
+"startDate" must be greater than or equal to "2024-05-29T10:14:54.805Z"
+-----------------------------------------------------
+Wed May 29 2024 14:14:19 GMT+0300 (שעון ישראל (קיץ))
+"startDate" must be greater than or equal to "2024-05-29T10:14:54.805Z"
+-----------------------------------------------------
+Wed May 29 2024 14:14:23 GMT+0300 (שעון ישראל (קיץ))
+"startDate" must be greater than or equal to "2024-05-29T10:14:54.805Z"
+-----------------------------------------------------
+Wed May 29 2024 14:30:31 GMT+0300 (שעון ישראל (קיץ))
+"startDate" must be greater than or equal to "2024-05-29T10:14:54.805Z"
+-----------------------------------------------------
+Sun Jun 02 2024 12:46:51 GMT+0300 (שעון ישראל (קיץ))
+Duplicate entry '11-21' for key 'likes.PRIMARY'
+-----------------------------------------------------
+Sun Jun 02 2024 12:46:54 GMT+0300 (שעון ישראל (קיץ))
+Duplicate entry '11-21' for key 'likes.PRIMARY'
+-----------------------------------------------------
+Mon Jun 03 2024 13:04:34 GMT+0300 (שעון ישראל (קיץ))
+Incorrect email or password
+-----------------------------------------------------
+Mon Jun 03 2024 13:15:47 GMT+0300 (שעון ישראל (קיץ))
+Duplicate entry '11-20' for key 'likes.PRIMARY'
+-----------------------------------------------------
+Mon Jun 03 2024 13:15:50 GMT+0300 (שעון ישראל (קיץ))
+Duplicate entry '11-20' for key 'likes.PRIMARY'
+-----------------------------------------------------
+Mon Jun 03 2024 13:15:56 GMT+0300 (שעון ישראל (קיץ))
+Duplicate entry '11-20' for key 'likes.PRIMARY'
+-----------------------------------------------------
+Mon Jun 03 2024 13:15:59 GMT+0300 (שעון ישראל (קיץ))
+Duplicate entry '11-20' for key 'likes.PRIMARY'
+-----------------------------------------------------
+Mon Jun 03 2024 13:36:20 GMT+0300 (שעון ישראל (קיץ))
+"endDate" must be greater than "ref:startDate"
+-----------------------------------------------------
+Thu Jun 06 2024 12:12:09 GMT+0300 (שעון ישראל (קיץ))
+Incorrect email or password
+-----------------------------------------------------
+Thu Jun 06 2024 14:53:58 GMT+0300 (שעון ישראל (קיץ))
+"startDate" must be greater than or equal to "2024-06-06T11:48:44.322Z"
+-----------------------------------------------------
+Thu Jun 06 2024 14:54:06 GMT+0300 (שעון ישראל (קיץ))
+"startDate" must be greater than or equal to "2024-06-06T11:48:44.322Z"
+-----------------------------------------------------
+Thu Jun 06 2024 14:55:23 GMT+0300 (שעון ישראל (קיץ))
+Cannot read properties of undefined (reading 'imageName')
+-----------------------------------------------------
+Thu Jun 06 2024 14:56:33 GMT+0300 (שעון ישראל (קיץ))
+Incorrect email or password
+-----------------------------------------------------
+Sun Jun 09 2024 12:30:37 GMT+0300 (שעון ישראל (קיץ))
+Duplicate entry '11-22' for key 'likes.PRIMARY'
+-----------------------------------------------------
+Sun Jun 09 2024 12:33:46 GMT+0300 (שעון ישראל (קיץ))
+"startDate" must be greater than or equal to "2024-06-09T09:00:32.585Z"
+-----------------------------------------------------
+Sun Jun 09 2024 12:50:19 GMT+0300 (שעון ישראל (קיץ))
+Duplicate entry '11-3' for key 'likes.PRIMARY'
+-----------------------------------------------------
+Sun Jun 09 2024 12:50:20 GMT+0300 (שעון ישראל (קיץ))
+Duplicate entry '11-3' for key 'likes.PRIMARY'
+-----------------------------------------------------
